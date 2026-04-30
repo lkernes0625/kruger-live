@@ -2,5 +2,4 @@
   {"type":"advisory","title":"Road Advisory","msg":"S65 gravel section may be restricted after heavy rain. Call Orpen Camp 013 735 6355 before travelling.","color":"amber"},
   {"type":"sighting","title":"Sighting Intelligence","msg":"Large elephant breeding herd active on H3 between Skukuza and Lower Sabie. Approach cautiously.","color":"green"},
   {"type":"notice","title":"Park Notice","msg":"Day visitor bookings mandatory for all SANParks rest camps. Book via sanparks.org before arrival.","color":"blue"}
-  { "type": "advisory", "title": "Road Closure", "msg": "Your message here", "color": "amber" }
 ]
