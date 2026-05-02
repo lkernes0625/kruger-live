@@ -14,7 +14,7 @@
     "icon": "&#x1F6AB;",
     "title": "H1 2 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-01T17:49:24.056Z",
+    "time": "2026-05-02T18:54:09.343Z",
     "source": "Kruger Status"
   },
   {
@@ -30,27 +30,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Shingwedzi Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-01T10:26:57.319Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "H1 1 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-01T15:51:47.909Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "H1 7 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-04-30T18:03:03.437Z",
     "source": "Kruger Status"
   },
   {
@@ -78,6 +60,15 @@
     "title": "Phabeni Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-02T05:41:00.306Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Shingwedzi Camp - Last known: limited",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-02T18:08:40.833Z",
     "source": "Kruger Status"
   }
 ]
