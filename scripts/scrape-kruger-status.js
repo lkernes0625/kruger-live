@@ -1,115 +1,121 @@
 const https = require('https');
 
-function fetchPage(url) {
+const API_URL = 'https://krugerstatus.co.za/api/status?ids=' +
+  'camp%3Aberg-en-dal%2Ccamp%3Acrocodile-bridge%2Ccamp%3Aletaba%2C' +
+  'camp%3Alower-sabie%2Ccamp%3Amopani%2Ccamp%3Aolifants%2Ccamp%3Aorpen%2C' +
+  'camp%3Apretoriuskop%2Ccamp%3Apunda-maria%2Ccamp%3Asatara%2C' +
+  'camp%3Ashingwedzi%2Ccamp%3Askukuza%2Ccamp%3Abalule%2Ccamp%3Amalelane%2C' +
+  'camp%3Amaroela%2Ccamp%3Atamboti%2Ccamp%3Atsendze%2Ccamp%3Abateleur%2C' +
+  'camp%3Abiyamiti%2Ccamp%3Ashimuwini%2Ccamp%3Asirheni%2Ccamp%3Atalamati%2C' +
+  'gate%3Acrocodile-bridge%2Cgate%3Agiriyondo%2Cgate%3Apaul-kruger%2C' +
+  'gate%3Amalelane%2Cgate%3Anumbi%2Cgate%3Aorpen%2Cgate%3Apafuri%2C' +
+  'gate%3Aphabeni%2Cgate%3Aphalaborwa%2Cgate%3Apunda-maria%2C' +
+  'road%3Ah1-1%2Croad%3Ah1-2%2Croad%3Ah1-3%2Croad%3Ah1-4%2Croad%3Ah1-5%2C' +
+  'road%3Ah1-6%2Croad%3Ah1-7%2Croad%3Ah1-8%2Croad%3Ah3%2Croad%3Ah4-1%2C' +
+  'road%3Ah4-2%2Croad%3Ah7%2Croad%3Ah9%2Croad%3Ah10%2Croad%3Ah12%2C' +
+  'road%3As1%2Croad%3As3-skukuza%2Croad%3As28%2Croad%3As41%2Croad%3As44%2C' +
+  'road%3As47%2Croad%3As65%2Croad%3As100%2Croad%3As106%2Croad%3As114';
+
+function fetchAPI(url) {
   return new Promise((resolve, reject) => {
     https.get(url, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; KrugerFieldGuide/1.0)'
+        'User-Agent': 'Mozilla/5.0 (compatible; KrugerFieldGuide/1.0)',
+        'Accept': 'application/json'
       }
     }, (res) => {
       let data = '';
       res.on('data', chunk => data += chunk);
-      res.on('end', () => resolve(data));
+      res.on('end', () => {
+        try { resolve(JSON.parse(data)); }
+        catch(e) { reject(e); }
+      });
     }).on('error', reject);
   });
 }
 
-function parseStatus(html) {
-  const items = [];
-  const now = new Date().toISOString();
+function getIcon(type, status) {
+  if (!status) return '⚪';
+  const s = status.toLowerCase();
+  if (s.includes('closed') || s.includes('restricted')) return '🚧';
+  if (s.includes('open') || s.includes('operational')) return '🟢';
+  if (s.includes('partial') || s.includes('limited')) return '🟡';
+  if (type === 'camp') return '🏕️';
+  if (type === 'gate') return '🚗';
+  if (type === 'road') return '🛤️';
+  return '⚪';
+}
 
-  // Match status rows — krugerstatus.co.za uses a table/list pattern
-  // Pattern: road name + status text in adjacent elements
-  const rowPattern = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
-  const cellPattern = /<td[^>]*>([\s\S]*?)<\/td>/gi;
-  const tagPattern = /<[^>]+>/g;
+function formatTitle(id, type, status) {
+  // Turn "camp:lower-sabie" into "Lower Sabie Camp"
+  const name = id
+    .replace(/^(camp|gate|road|poi):/, '')
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, c => c.toUpperCase());
 
-  let rowMatch;
-  while ((rowMatch = rowPattern.exec(html)) !== null) {
-    const rowHtml = rowMatch[1];
-    const cells = [];
-    let cellMatch;
-    while ((cellMatch = cellPattern.exec(rowHtml)) !== null) {
-      const text = cellMatch[1].replace(tagPattern, '').trim();
-      if (text) cells.push(text);
-    }
+  const typeLabel = type === 'camp' ? 'Camp' :
+                    type === 'gate' ? 'Gate' :
+                    type === 'road' ? 'Road' : '';
 
-    if (cells.length >= 2) {
-      const title = cells[0];
-      const status = cells[1];
-      const detail = cells[2] || '';
-
-      // Skip header rows
-      if (title.toLowerCase().includes('road') ||
-          title.toLowerCase().includes('gate') ||
-          title.toLowerCase().includes('camp') ||
-          title.toLowerCase().includes('h1') ||
-          title.toLowerCase().includes('s') && title.length <= 4) {
-
-        const isAlert = /closed|flooded|restrict|caution|warning/i.test(status + detail);
-
-        items.push({
-          type: 'road',
-          tag: 'road',
-          icon: isAlert ? '🚧' : '🟢',
-          title: title + ' — ' + status,
-          desc: detail || status,
-          time: now,
-          source: 'Kruger Status'
-        });
-      }
-    }
-  }
-
-  // Fallback: also scan for div/span-based status blocks
-  const blockPattern = /class="[^"]*status[^"]*"[^>]*>([\s\S]*?)<\/div>/gi;
-  let blockMatch;
-  while ((blockMatch = blockPattern.exec(html)) !== null) {
-    const text = blockMatch[1].replace(tagPattern, '').replace(/\s+/g, ' ').trim();
-    if (text && text.length > 5 && text.length < 200) {
-      items.push({
-        type: 'road',
-        tag: 'road',
-        icon: /closed|flooded|restrict/i.test(text) ? '🚧' : '🟢',
-        title: text.substring(0, 60),
-        desc: text,
-        time: now,
-        source: 'Kruger Status'
-      });
-    }
-  }
-
-  return items;
+  return `${name} ${typeLabel} — ${status || 'Status unknown'}`.trim();
 }
 
 async function main() {
   try {
-    console.log('Fetching krugerstatus.co.za...');
-    const html = await fetchPage('https://krugerstatus.co.za/');
+    console.error('Fetching krugerstatus.co.za API...');
+    const data = await fetchAPI(API_URL);
 
-    const items = parseStatus(html);
-    console.log(`Parsed ${items.length} status items`);
+    console.error('API response received, parsing...');
+    console.error('Raw response preview:', JSON.stringify(data).substring(0, 300));
+
+    const items = [];
+    const now = new Date().toISOString();
+
+    // Handle array response
+    const entries = Array.isArray(data) ? data : Object.values(data);
+
+    entries.forEach(entry => {
+      if (!entry) return;
+
+      // Extract fields — try common API patterns
+      const id = entry.id || entry.slug || '';
+      const rawStatus = entry.status || entry.state || entry.condition || '';
+      const notes = entry.notes || entry.description || entry.comment || '';
+      const type = id.split(':')[0] || 'road';
+      const isAlert = /closed|restricted|flooded|caution/i.test(rawStatus + notes);
+
+      if (!rawStatus && !notes) return;
+
+      items.push({
+        type: 'road',
+        tag: 'road',
+        icon: getIcon(type, rawStatus),
+        title: formatTitle(id, type, rawStatus),
+        desc: notes || rawStatus,
+        time: entry.updatedAt || entry.updated_at || now,
+        source: 'Kruger Status'
+      });
+    });
+
+    console.error(`Parsed ${items.length} status items`);
 
     if (items.length === 0) {
-      // Emit a fallback item so the feed always has something from this source
       items.push({
         type: 'road',
         tag: 'road',
         icon: '🟢',
-        title: 'Kruger Status — All roads operational',
-        desc: 'No reported closures or restrictions at this time. Check krugerstatus.co.za for live updates.',
-        time: new Date().toISOString(),
+        title: 'Kruger Status — All areas operational',
+        desc: 'No reported closures or restrictions. Check krugerstatus.co.za for live updates.',
+        time: now,
         source: 'Kruger Status'
       });
     }
 
-    // Output JSON to stdout — GitHub Actions will capture this
     process.stdout.write(JSON.stringify(items, null, 2));
     process.exit(0);
 
-  } catch (err) {
+  } catch(err) {
     console.error('Scrape failed:', err.message);
-    // Exit 0 so workflow doesn't fail hard — feed just won't update
     process.exit(0);
   }
 }
