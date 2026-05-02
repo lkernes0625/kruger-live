@@ -38,5 +38,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add kruger-status.json
-          git diff --staged --quiet || git commit -m "chore: update kruger-status feed [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          git push
+          git diff --staged --quiet || (git commit -m "chore: update kruger-status feed [$(date -u '+%Y-%m-%d %H:%M UTC')]" && git pull --rebase && git push)
