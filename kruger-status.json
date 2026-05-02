@@ -1,13 +1,11 @@
-Fetching krugerstatus.co.za...
-Parsed 0 status items
 [
   {
     "type": "road",
     "tag": "road",
     "icon": "🟢",
-    "title": "Kruger Status — All roads operational",
-    "desc": "No reported closures or restrictions at this time. Check krugerstatus.co.za for live updates.",
-    "time": "2026-05-02T12:04:07.360Z",
+    "title": "Kruger Status — Debug run complete",
+    "desc": "Check Actions logs for raw API structure.",
+    "time": "2026-05-02T12:55:20.550Z",
     "source": "Kruger Status"
   }
 ]
