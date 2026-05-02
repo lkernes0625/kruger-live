@@ -2,10 +2,11 @@ name: Scrape Kruger Status
 
 on:
   schedule:
-    # Runs every hour
     - cron: '0 * * * *'
-  # Also allows manual trigger from GitHub Actions tab
   workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   scrape:
@@ -20,7 +21,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Run scraper
         run: node scripts/scrape-kruger-status.js > kruger-status.json
