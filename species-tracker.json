@@ -1,0 +1,155 @@
+{
+  "last_updated": "2026-05-02",
+  "version": "3.1",
+  "summary": {
+    "mammals_in_app": 24,
+    "birds_in_app": 3,
+    "reptiles_in_app": 4,
+    "frogs_in_app": 3,
+    "total_in_app": 34
+  },
+  "mammals": [
+    {
+      "id": "lion",
+      "has_image": true
+    },
+    {
+      "id": "elephant",
+      "has_image": true
+    },
+    {
+      "id": "leopard",
+      "has_image": true
+    },
+    {
+      "id": "buffalo",
+      "has_image": true
+    },
+    {
+      "id": "white_rhino",
+      "has_image": true
+    },
+    {
+      "id": "black_rhino",
+      "has_image": true
+    },
+    {
+      "id": "cheetah",
+      "has_image": true
+    },
+    {
+      "id": "wild_dog",
+      "has_image": true
+    },
+    {
+      "id": "hyena",
+      "has_image": true
+    },
+    {
+      "id": "giraffe",
+      "has_image": true
+    },
+    {
+      "id": "zebra",
+      "has_image": true
+    },
+    {
+      "id": "impala",
+      "has_image": true
+    },
+    {
+      "id": "kudu",
+      "has_image": true
+    },
+    {
+      "id": "nyala",
+      "has_image": true
+    },
+    {
+      "id": "waterbuck",
+      "has_image": true
+    },
+    {
+      "id": "warthog",
+      "has_image": true
+    },
+    {
+      "id": "hippo",
+      "has_image": true
+    },
+    {
+      "id": "sable_antelope",
+      "has_image": true
+    },
+    {
+      "id": "roan_antelope",
+      "has_image": true
+    },
+    {
+      "id": "eland",
+      "has_image": true
+    },
+    {
+      "id": "blue_wildebeest",
+      "has_image": true
+    },
+    {
+      "id": "black_wildebeest",
+      "has_image": true
+    },
+    {
+      "id": "caracal",
+      "has_image": true
+    },
+    {
+      "id": "pangolin",
+      "has_image": true
+    }
+  ],
+  "birds": [
+    {
+      "id": "fish_eagle",
+      "has_image": true
+    },
+    {
+      "id": "pels_fishing_owl",
+      "has_image": true
+    },
+    {
+      "id": "southern_ground_hornbill",
+      "has_image": true
+    }
+  ],
+  "reptiles": [
+    {
+      "id": "crocodile",
+      "has_image": true
+    },
+    {
+      "id": "leopard_tortoise",
+      "has_image": true
+    },
+    {
+      "id": "monitor_lizard",
+      "has_image": true
+    },
+    {
+      "id": "african_rock_python",
+      "has_image": true
+    }
+  ],
+  "frogs": [
+    {
+      "id": "african_bullfrog",
+      "has_image": true
+    },
+    {
+      "id": "foam_nest_frog",
+      "has_image": true
+    },
+    {
+      "id": "painted_reed_frog",
+      "has_image": true
+    }
+  ]
+}
