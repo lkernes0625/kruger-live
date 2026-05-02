@@ -34,10 +34,7 @@ jobs:
           fi
 
       - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
-          git add kruger-status.json
-          git diff --staged --quiet || git commit -m "chore: update kruger-status feed [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update kruger-status feed"
+          file_pattern: kruger-status.json
