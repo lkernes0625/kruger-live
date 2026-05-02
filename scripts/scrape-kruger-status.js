@@ -25,8 +25,8 @@ function fetchAPI(url) {
       }
     }, (res) => {
       let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
+      res.on('data', function(chunk) { data += chunk; });
+      res.on('end', function() {
         try { resolve(JSON.parse(data)); }
         catch(e) { reject(new Error('JSON parse failed: ' + data.substring(0, 200))); }
       });
@@ -38,14 +38,16 @@ function formatName(id) {
   return id
     .replace(/^(camp|gate|road|poi):/, '')
     .replace(/-/g, ' ')
-    .replace(/\b\w/g, c => c.toUpperCase());
+    .replace(/\b\w/g, function(c) { return c.toUpperCase(); });
 }
 
 function getIcon(type, status) {
-  if (status === 'open')    return type === 'camp' ? '🏕️' : type === 'gate' ? '🚗' : '🟢';
-  if (status === 'closed')  return '🚫';
-  if (status === 'limited') return '🟡';
-  return '⚪';
+  if (status === 'closed')  return '&#x1F6AB;';
+  if (status === 'limited') return '&#x1F7E1;';
+  if (status === 'open' && type === 'camp') return '&#x1F3D5;';
+  if (status === 'open' && type === 'gate') return '&#x1F697;';
+  if (status === 'open')    return '&#x1F7E2;';
+  return '&#x26AA;';
 }
 
 function getStatusLabel(status, lastKnown) {
@@ -64,45 +66,61 @@ async function main() {
     const now = new Date().toISOString();
     const results = [];
 
-    Object.entries(items).forEach(([id, entry]) => {
+    Object.entries(items).forEach(function(entry) {
+      const id = entry[0];
+      const item = entry[1];
       const type = id.split(':')[0];
-      const status = entry.status || 'unknown';
-      const lastKnown = entry.lastKnownStatus || '';
-      const confidence = entry.confidence || 'low';
-      const updatedAt = entry.updatedAt || now;
-      const totalVotes = entry.totalVotes || 0;
+      const status = item.status || 'unknown';
+      const lastKnown = item.lastKnownStatus || '';
+      const updatedAt = item.updatedAt || now;
+      const totalVotes = item.totalVotes || 0;
 
-      // Only include items that have actual data — skip unknown with 0 votes
+      // Only include items with actual reports
       if (status === 'unknown' && totalVotes === 0) return;
 
       const name = formatName(id);
       const typeLabel = type === 'camp' ? 'Camp' : type === 'gate' ? 'Gate' : 'Road';
       const statusLabel = getStatusLabel(status, lastKnown);
-      const votesText = totalVotes > 0 ? ` · ${totalVotes} report${totalVotes > 1 ? 's' : ''}` : '';
-      const confidenceText = confidence === 'high' ? ' · High confidence' : '';
+      const votesText = totalVotes > 0 ? ' - ' + totalVotes + ' report' + (totalVotes > 1 ? 's' : '') : '';
 
       results.push({
         type: 'road',
         tag: 'road',
         icon: getIcon(type, status),
-        title: `${name} ${typeLabel} — ${statusLabel}`,
-        desc: `Community reports${votesText}${confidenceText}. Source: krugerstatus.co.za`,
+        title: name + ' ' + typeLabel + ' - ' + statusLabel,
+        desc: 'Community reports' + votesText + '. Source: krugerstatus.co.za',
         time: updatedAt,
         source: 'Kruger Status'
       });
     });
 
-    console.error(`Parsed ${results.length} status items`);
+    console.error('Parsed ' + results.length + ' status items');
 
     // Sort: closed first, then limited, then open
-    results.sort((a, b) => {
-      const order = { '🚫': 0, '🟡': 1, '🟢': 2, '🏕️': 3, '🚗': 4, '⚪': 5 };
-      return (order[a.icon] ?? 5) - (order[b.icon] ?? 5);
+    results.sort(function(a, b) {
+      const order = {'&#x1F6AB;': 0, '&#x1F7E1;': 1, '&#x1F7E2;': 2, '&#x1F3D5;': 3, '&#x1F697;': 4, '&#x26AA;': 5};
+      return (order[a.icon] !== undefined ? order[a.icon] : 5) - (order[b.icon] !== undefined ? order[b.icon] : 5);
     });
 
     if (results.length === 0) {
       results.push({
         type: 'road',
         tag: 'road',
-        icon: '🟢',
-        title: 'Kruger Status —
+        icon: '&#x1F7E2;',
+        title: 'Kruger Status - All areas operational',
+        desc: 'No reported closures or restrictions. Source: krugerstatus.co.za',
+        time: now,
+        source: 'Kruger Status'
+      });
+    }
+
+    process.stdout.write(JSON.stringify(results, null, 2));
+    process.exit(0);
+
+  } catch(err) {
+    console.error('Failed: ' + err.message);
+    process.exit(0);
+  }
+}
+
+main();
