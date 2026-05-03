@@ -39,15 +39,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "H1 1 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-01T15:51:47.909Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "S100 Road - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-05-03T09:54:57.495Z",
