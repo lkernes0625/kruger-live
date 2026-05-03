@@ -4,8 +4,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "H1 2 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-02T18:54:09.343Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-03T17:38:36.956Z",
     "source": "Kruger Status"
   },
   {
@@ -41,7 +41,25 @@
     "icon": "&#x1F7E1;",
     "title": "S100 Road - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-03T09:54:57.495Z",
+    "time": "2026-05-03T17:36:12.988Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "H4 1 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-03T17:36:09.077Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "S1 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-03T17:36:10.900Z",
     "source": "Kruger Status"
   },
   {
