@@ -30,6 +30,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Balule Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-03T09:29:44.181Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Biyamiti Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-03T00:26:04.504Z",
@@ -49,8 +58,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "S100 Road - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-01T12:35:24.868Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-03T09:54:57.495Z",
     "source": "Kruger Status"
   },
   {
