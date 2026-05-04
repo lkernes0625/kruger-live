@@ -21,9 +21,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Lower Sabie Camp - Limited access",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-04T15:48:00.143Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Balule Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-04T06:15:26.525Z",
+    "time": "2026-05-04T17:48:29.182Z",
     "source": "Kruger Status"
   },
   {
@@ -42,15 +51,6 @@
     "title": "S100 Road - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-05-04T12:38:00.699Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Lower Sabie Camp - Limited access",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-04T15:48:00.143Z",
     "source": "Kruger Status"
   },
   {
@@ -83,10 +83,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Berg En Dal Camp - Open",
+    "icon": "&#x1F7E2;",
+    "title": "S3 Skukuza Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-04T09:42:03.885Z",
+    "time": "2026-05-04T17:56:38.386Z",
     "source": "Kruger Status"
   },
   {
@@ -114,6 +114,15 @@
     "title": "Shingwedzi Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-02T18:08:40.833Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Berg En Dal Camp - Last known: open",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-04T17:30:04.205Z",
     "source": "Kruger Status"
   }
 ]
