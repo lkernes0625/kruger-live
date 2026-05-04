@@ -50,7 +50,7 @@
     "icon": "&#x1F7E1;",
     "title": "S100 Road - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-03T17:36:12.988Z",
+    "time": "2026-05-04T12:38:00.699Z",
     "source": "Kruger Status"
   },
   {
@@ -77,7 +77,16 @@
     "icon": "&#x1F7E2;",
     "title": "S1 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-03T17:36:10.900Z",
+    "time": "2026-05-04T12:37:56.809Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Berg En Dal Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-04T09:42:03.885Z",
     "source": "Kruger Status"
   },
   {
@@ -105,15 +114,6 @@
     "title": "Shingwedzi Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-02T18:08:40.833Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Berg En Dal Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-04T09:42:03.885Z",
     "source": "Kruger Status"
   }
 ]
