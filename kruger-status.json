@@ -3,9 +3,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "H1 2 Road - Closed",
+    "title": "Letaba Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-03T17:38:36.956Z",
+    "time": "2026-05-05T17:51:20.545Z",
     "source": "Kruger Status"
   },
   {
@@ -30,27 +30,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E2;",
+    "title": "H1 2 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-05T16:40:58.912Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
     "title": "H1 5 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-04T10:52:56.868Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H4 1 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-03T17:36:09.077Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "S1 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-04T12:37:56.809Z",
     "source": "Kruger Status"
   },
   {
@@ -68,7 +59,7 @@
     "icon": "&#x1F3D5;",
     "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-05T08:06:34.885Z",
+    "time": "2026-05-05T16:47:22.574Z",
     "source": "Kruger Status"
   },
   {
