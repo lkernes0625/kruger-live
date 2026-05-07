@@ -12,17 +12,8 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Crocodile Bridge Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-05T13:06:17.154Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "Lower Sabie Camp - Limited access",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
     "time": "2026-05-06T16:19:36.994Z",
     "source": "Kruger Status"
   },
@@ -33,6 +24,15 @@
     "title": "H1 2 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-05T16:40:58.912Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "H3 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-07T14:20:20.162Z",
     "source": "Kruger Status"
   },
   {
