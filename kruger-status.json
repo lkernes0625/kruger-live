@@ -14,7 +14,7 @@
     "icon": "&#x1F7E1;",
     "title": "Lower Sabie Camp - Limited access",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-06T16:19:36.994Z",
+    "time": "2026-05-07T16:11:25.314Z",
     "source": "Kruger Status"
   },
   {
@@ -42,6 +42,15 @@
     "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-06T09:21:49.934Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Malelane Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-07T15:33:30.085Z",
     "source": "Kruger Status"
   }
 ]
