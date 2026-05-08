@@ -11,6 +11,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "H1 1 Road - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-08T07:34:13.330Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F7E2;",
     "title": "H3 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -24,6 +33,15 @@
     "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-06T09:21:49.934Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Crocodile Bridge Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-08T06:57:09.083Z",
     "source": "Kruger Status"
   },
   {
