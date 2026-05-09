@@ -47,15 +47,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F697;",
-    "title": "Malelane Gate - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-07T15:33:30.085Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x26AA;",
     "title": "H1 1 Road - Last known: limited",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
