@@ -20,6 +20,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "S44 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-11T16:04:57.941Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F697;",
     "title": "Phabeni Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
