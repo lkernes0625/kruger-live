@@ -30,9 +30,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Letaba Camp - Open",
+    "title": "Orpen Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-12T10:34:25.416Z",
+    "time": "2026-05-12T13:53:49.781Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Pretoriuskop Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-12T13:43:24.985Z",
     "source": "Kruger Status"
   },
   {
@@ -56,10 +65,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F697;",
-    "title": "Phabeni Gate - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-10T14:06:16.803Z",
+    "icon": "&#x26AA;",
+    "title": "Letaba Camp - Last known: open",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-12T14:25:45.792Z",
     "source": "Kruger Status"
   },
   {
