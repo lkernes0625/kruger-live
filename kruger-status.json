@@ -2,10 +2,19 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "Shimuwini Camp - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-13T08:05:14.899Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-13T16:05:51.068Z",
+    "time": "2026-05-14T10:50:48.436Z",
     "source": "Kruger Status"
   },
   {
@@ -13,8 +22,8 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Letaba Camp - Open",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-13T16:58:34.495Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-14T11:37:00.969Z",
     "source": "Kruger Status"
   },
   {
@@ -39,36 +48,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Shingwedzi Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-12T10:35:12.175Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Balule Camp - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-14T10:02:59.785Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F697;",
-    "title": "Pafuri Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-12T10:35:49.817Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Shimuwini Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-13T08:05:14.899Z",
+    "time": "2026-05-14T10:58:20.487Z",
     "source": "Kruger Status"
   }
 ]
