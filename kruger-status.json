@@ -13,7 +13,7 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Balule Camp - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-05-17T19:36:03.323Z",
     "source": "Kruger Status"
   },
@@ -31,8 +31,17 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Lower Sabie Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-18T11:17:26.796Z",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-18T12:45:25.016Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Bateleur Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-18T15:16:24.171Z",
     "source": "Kruger Status"
   },
   {
@@ -47,19 +56,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Bateleur Camp - Limited access",
+    "icon": "&#x1F7E2;",
+    "title": "H1 1 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-18T11:31:18.033Z",
+    "time": "2026-05-18T04:32:45.843Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H1 1 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-18T04:32:45.843Z",
+    "icon": "&#x1F3D5;",
+    "title": "Berg En Dal Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-18T13:52:45.963Z",
     "source": "Kruger Status"
   },
   {
@@ -77,16 +86,7 @@
     "icon": "&#x1F3D5;",
     "title": "Talamati Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-18T07:03:43.267Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Berg En Dal Camp - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-18T08:51:01.308Z",
+    "time": "2026-05-18T14:01:22.499Z",
     "source": "Kruger Status"
   }
 ]
