@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Letaba Camp - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-19T08:41:16.001Z",
+    "time": "2026-05-19T13:16:25.752Z",
     "source": "Kruger Status"
   },
   {
@@ -22,17 +22,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Shimuwini Camp - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-19T08:55:56.380Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "H4 2 Road - Closed",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-19T11:59:57.697Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-19T13:17:08.243Z",
     "source": "Kruger Status"
   },
   {
@@ -40,7 +31,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Lower Sabie Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-19T11:51:51.754Z",
     "source": "Kruger Status"
   },
@@ -96,6 +87,15 @@
     "title": "Berg En Dal Camp - Last known: open",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
     "time": "2026-05-19T07:05:55.363Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "H4 2 Road - Last known: closed",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-19T14:58:38.592Z",
     "source": "Kruger Status"
   }
 ]
