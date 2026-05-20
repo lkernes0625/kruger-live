@@ -39,9 +39,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Bateleur Camp - Limited access",
+    "title": "H1 4 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-18T15:16:24.171Z",
+    "time": "2026-05-20T13:29:03.565Z",
     "source": "Kruger Status"
   },
   {
@@ -51,6 +51,15 @@
     "title": "H4 2 Road - Open",
     "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
     "time": "2026-05-20T04:44:59.904Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "S100 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-20T12:05:37.421Z",
     "source": "Kruger Status"
   },
   {
