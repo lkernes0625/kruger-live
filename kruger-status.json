@@ -21,9 +21,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Berg En Dal Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-19T07:05:55.363Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Lower Sabie Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-20T15:08:26.372Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-20T19:20:52.341Z",
     "source": "Kruger Status"
   },
   {
@@ -42,15 +51,6 @@
     "title": "H1 4 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-20T13:29:03.565Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H4 2 Road - Open",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-20T04:44:59.904Z",
     "source": "Kruger Status"
   },
   {
@@ -84,9 +84,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Berg En Dal Camp - Last known: open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-19T07:05:55.363Z",
+    "title": "H4 2 Road - Last known: open",
+    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-20T17:00:59.269Z",
     "source": "Kruger Status"
   }
 ]
