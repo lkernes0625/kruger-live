@@ -4,7 +4,7 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Letaba Camp - Closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-19T19:58:10.428Z",
     "source": "Kruger Status"
   },
@@ -66,18 +66,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Pretoriuskop Camp - Open",
+    "title": "Olifants Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-19T07:06:31.165Z",
+    "time": "2026-05-20T10:27:13.179Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Talamati Camp - Open",
+    "title": "Pretoriuskop Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-18T14:01:22.499Z",
+    "time": "2026-05-19T07:06:31.165Z",
     "source": "Kruger Status"
   }
 ]
