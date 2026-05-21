@@ -12,15 +12,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "H1 4 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-21T18:58:55.384Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "Lower Sabie Camp - Limited access",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-05-20T21:35:18.530Z",
@@ -42,6 +33,15 @@
     "title": "Bateleur Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-21T17:32:07.572Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "H1 4 Road - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-21T18:58:55.384Z",
     "source": "Kruger Status"
   },
   {
@@ -75,18 +75,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Shingwedzi Camp - Open",
+    "title": "Olifants Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-21T14:45:21.896Z",
+    "time": "2026-05-20T10:27:13.179Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Olifants Camp - Open",
+    "title": "Shingwedzi Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-20T10:27:13.179Z",
+    "time": "2026-05-21T14:45:21.896Z",
     "source": "Kruger Status"
   },
   {
