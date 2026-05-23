@@ -38,6 +38,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "S100 Road - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-23T20:27:19.954Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
