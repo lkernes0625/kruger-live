@@ -30,6 +30,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "H1 3 Road - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-24T11:48:31.612Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "S100 Road - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-05-24T07:39:16.439Z",
@@ -42,6 +51,15 @@
     "title": "Biyamiti Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-23T10:43:56.353Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Orpen Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-24T11:31:07.861Z",
     "source": "Kruger Status"
   }
 ]
