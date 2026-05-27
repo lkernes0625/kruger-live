@@ -2,10 +2,19 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "Satara Camp - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-27T08:30:41.383Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-26T15:21:39.435Z",
+    "time": "2026-05-27T07:19:32.049Z",
     "source": "Kruger Status"
   },
   {
@@ -22,8 +31,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "H1 1 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-26T08:37:03.260Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-27T09:38:26.289Z",
     "source": "Kruger Status"
   },
   {
@@ -60,15 +69,6 @@
     "title": "Biyamiti Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-26T05:36:30.256Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Satara Camp - Last known: open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-27T04:42:13.774Z",
     "source": "Kruger Status"
   }
 ]
