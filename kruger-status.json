@@ -30,18 +30,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "H1 1 Road - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-27T09:38:26.289Z",
+    "title": "Letaba Camp - Limited access",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-28T10:10:12.220Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-28T09:03:08.689Z",
+    "title": "H1 1 Road - Limited access",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-27T09:38:26.289Z",
     "source": "Kruger Status"
   },
   {
@@ -156,6 +156,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Lower Sabie Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-27T19:10:29.727Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Satara Camp - Open",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-05-27T12:29:15.796Z",
@@ -185,7 +194,7 @@
     "icon": "&#x1F3D5;",
     "title": "Shimuwini Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-28T09:02:32.058Z",
+    "time": "2026-05-28T10:27:55.801Z",
     "source": "Kruger Status"
   },
   {
@@ -201,18 +210,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Lower Sabie Camp - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-27T19:10:29.727Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
     "title": "Pretoriuskop Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-27T19:10:42.438Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-28T13:21:53.018Z",
     "source": "Kruger Status"
   }
 ]
