@@ -31,8 +31,17 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-28T10:10:12.220Z",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-29T08:38:17.221Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Pretoriuskop Camp - Limited access",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-29T10:25:11.522Z",
     "source": "Kruger Status"
   },
   {
@@ -42,15 +51,6 @@
     "title": "Balule Camp - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-05-28T17:41:47.939Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "H1 1 Road - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-29T06:33:11.325Z",
     "source": "Kruger Status"
   },
   {
@@ -157,7 +157,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Berg En Dal Camp - Open",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-05-28T18:10:12.425Z",
     "source": "Kruger Status"
   },
@@ -165,18 +165,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Crocodile Bridge Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-27T11:51:23.627Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Lower Sabie Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-27T19:10:29.727Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-29T08:28:25.553Z",
     "source": "Kruger Status"
   },
   {
@@ -184,7 +175,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Satara Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-05-28T20:42:22.996Z",
     "source": "Kruger Status"
   },
@@ -231,15 +222,6 @@
     "title": "Giriyondo Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-28T09:02:35.270Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Pretoriuskop Camp - Last known: closed",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-29T03:12:37.683Z",
     "source": "Kruger Status"
   }
 ]
