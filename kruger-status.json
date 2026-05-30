@@ -21,6 +21,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E2;",
+    "title": "H3 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-28T16:59:54.425Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
     "title": "S106 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-29T17:48:52.697Z",
@@ -29,10 +38,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H3 Road - Open",
+    "icon": "&#x1F3D5;",
+    "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-28T16:59:54.425Z",
+    "time": "2026-05-28T18:10:12.425Z",
     "source": "Kruger Status"
   },
   {
@@ -51,33 +60,6 @@
     "title": "Lower Sabie Camp - Open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-05-29T12:33:42.470Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Shimuwini Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-05-29T07:05:54.278Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Talamati Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-29T14:59:10.111Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Berg En Dal Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-28T18:10:12.425Z",
     "source": "Kruger Status"
   },
   {
@@ -105,6 +87,24 @@
     "title": "Bateleur Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-28T17:04:24.359Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Shimuwini Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-05-29T07:05:54.278Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Talamati Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-05-29T14:59:10.111Z",
     "source": "Kruger Status"
   },
   {
