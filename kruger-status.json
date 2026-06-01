@@ -12,18 +12,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "H1 6 Road - Closed",
+    "title": "Sirheni Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-01T10:15:08.063Z",
+    "time": "2026-05-31T16:30:02.733Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Sirheni Camp - Closed",
+    "title": "H1 6 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-31T16:30:02.733Z",
+    "time": "2026-06-01T10:15:08.063Z",
     "source": "Kruger Status"
   },
   {
@@ -41,16 +41,7 @@
     "icon": "&#x1F7E1;",
     "title": "Shingwedzi Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-01T08:12:22.680Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "H1 1 Road - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-01T09:31:07.950Z",
+    "time": "2026-06-01T12:43:50.728Z",
     "source": "Kruger Status"
   },
   {
@@ -68,7 +59,16 @@
     "icon": "&#x1F7E1;",
     "title": "Crocodile Bridge Gate - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-01T09:19:44.589Z",
+    "time": "2026-06-01T13:23:46.933Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "H1 1 Road - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-01T09:31:07.950Z",
     "source": "Kruger Status"
   },
   {
@@ -93,6 +93,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Satara Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-01T16:37:07.879Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Shimuwini Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-31T12:11:23.448Z",
@@ -105,6 +114,15 @@
     "title": "Giriyondo Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-01T09:19:36.401Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Paul Kruger Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-01T16:37:19.565Z",
     "source": "Kruger Status"
   },
   {
@@ -129,18 +147,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Satara Camp - Last known: open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-01T07:03:41.767Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
     "title": "Balule Camp - Last known: limited",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-01T08:43:25.629Z",
+    "time": "2026-06-01T16:36:46.697Z",
     "source": "Kruger Status"
   }
 ]
