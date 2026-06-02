@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Letaba Camp - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-02T00:01:40.305Z",
+    "time": "2026-06-02T12:21:57.839Z",
     "source": "Kruger Status"
   },
   {
@@ -15,6 +15,15 @@
     "title": "S65 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-05-31T16:52:58.445Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Phabeni Gate - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-02T07:48:56.949Z",
     "source": "Kruger Status"
   },
   {
@@ -48,15 +57,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Phabeni Gate - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-02T07:48:56.949Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "H1 1 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-01T09:31:07.950Z",
@@ -67,17 +67,8 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Berg En Dal Camp - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-02T06:33:57.179Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Shimuwini Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-31T12:11:23.448Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-02T13:25:09.827Z",
     "source": "Kruger Status"
   },
   {
