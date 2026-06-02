@@ -3,15 +3,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Letaba Camp - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-02T12:21:57.839Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
     "title": "Olifants Camp - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-06-02T18:20:21.793Z",
@@ -39,18 +30,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Bateleur Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-05-31T19:16:18.309Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "Crocodile Bridge Gate - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-02T01:40:44.316Z",
+    "time": "2026-06-02T18:46:31.974Z",
     "source": "Kruger Status"
   },
   {
@@ -59,7 +41,7 @@
     "icon": "&#x1F7E1;",
     "title": "Phabeni Gate - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-02T07:48:56.949Z",
+    "time": "2026-06-02T20:05:18.334Z",
     "source": "Kruger Status"
   },
   {
@@ -78,15 +60,6 @@
     "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-06-02T13:25:09.827Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Balule Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-01T16:36:46.697Z",
     "source": "Kruger Status"
   },
   {
@@ -123,6 +96,15 @@
     "title": "Punda Maria Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-01T09:19:15.914Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Letaba Camp - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-02T12:21:57.839Z",
     "source": "Kruger Status"
   },
   {
