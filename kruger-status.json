@@ -3,15 +3,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "S44 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-02T18:17:33.812Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
     "title": "Letaba Camp - Closed",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
     "time": "2026-06-03T18:31:42.908Z",
@@ -24,6 +15,15 @@
     "title": "Olifants Camp - Closed",
     "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
     "time": "2026-06-03T17:49:25.706Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "S44 Road - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-02T18:17:33.812Z",
     "source": "Kruger Status"
   },
   {
