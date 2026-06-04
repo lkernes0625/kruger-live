@@ -12,15 +12,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Satara Camp - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-04T09:39:58.006Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
     "title": "Shimuwini Camp - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-06-04T08:56:46.130Z",
@@ -39,9 +30,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "H1 1 Road - Limited access",
+    "title": "S44 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-02T17:14:20.564Z",
+    "time": "2026-06-04T06:50:02.466Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "S100 Road - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-04T17:22:54.612Z",
     "source": "Kruger Status"
   },
   {
@@ -59,7 +59,16 @@
     "icon": "&#x1F3D5;",
     "title": "Balule Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-04T11:06:36.728Z",
+    "time": "2026-06-04T17:51:06.217Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Crocodile Bridge Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-04T17:19:19.743Z",
     "source": "Kruger Status"
   },
   {
@@ -67,7 +76,7 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Olifants Camp - Last known: closed",
-    "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
     "time": "2026-06-04T15:21:10.382Z",
     "source": "Kruger Status"
   },
@@ -84,9 +93,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "S44 Road - Last known: closed",
+    "title": "Satara Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-04T06:50:02.466Z",
+    "time": "2026-06-04T17:19:57.273Z",
     "source": "Kruger Status"
   }
 ]
