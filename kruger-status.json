@@ -76,17 +76,8 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Olifants Camp - Last known: closed",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-04T15:21:10.382Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "H1 6 Road - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-04T15:28:57.654Z",
+    "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-04T19:34:49.371Z",
     "source": "Kruger Status"
   },
   {
@@ -96,6 +87,15 @@
     "title": "Satara Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-06-04T17:19:57.273Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "H1 6 Road - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-04T15:28:57.654Z",
     "source": "Kruger Status"
   }
 ]
