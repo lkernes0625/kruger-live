@@ -29,15 +29,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "H1 6 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-04T09:04:27.697Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Bateleur Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -51,15 +42,6 @@
     "title": "H1 1 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-02T17:14:20.564Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Berg En Dal Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-03T07:24:35.506Z",
     "source": "Kruger Status"
   },
   {
@@ -86,7 +68,16 @@
     "icon": "&#x26AA;",
     "title": "Olifants Camp - Last known: closed",
     "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-04T09:40:50.770Z",
+    "time": "2026-06-04T15:21:10.382Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "H1 6 Road - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-04T15:28:57.654Z",
     "source": "Kruger Status"
   },
   {
