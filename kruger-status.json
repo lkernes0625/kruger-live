@@ -4,7 +4,7 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Letaba Camp - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-06-03T18:31:42.908Z",
     "source": "Kruger Status"
   },
@@ -15,6 +15,15 @@
     "title": "Shimuwini Camp - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-06-05T12:29:39.563Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "H1 3 Road - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-05T17:21:24.267Z",
     "source": "Kruger Status"
   },
   {
@@ -85,7 +94,7 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Olifants Camp - Last known: closed",
-    "desc": "Community reports - 9 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
     "time": "2026-06-05T12:30:21.013Z",
     "source": "Kruger Status"
   },
