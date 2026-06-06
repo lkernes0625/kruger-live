@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Shimuwini Camp - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-05T12:29:39.563Z",
+    "time": "2026-06-06T07:02:38.306Z",
     "source": "Kruger Status"
   },
   {
@@ -39,15 +39,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "S44 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-04T06:50:02.466Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "S100 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-04T17:22:54.612Z",
@@ -60,6 +51,15 @@
     "title": "H1 6 Road - Open",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-06-05T19:06:08.039Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Letaba Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-06T07:02:43.589Z",
     "source": "Kruger Status"
   },
   {
@@ -83,6 +83,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Sirheni Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-06T07:02:22.677Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F697;",
     "title": "Crocodile Bridge Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -94,8 +103,8 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Olifants Camp - Last known: closed",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-05T12:30:21.013Z",
+    "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-06T07:01:52.214Z",
     "source": "Kruger Status"
   },
   {
