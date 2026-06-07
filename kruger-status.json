@@ -3,18 +3,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Mopani Camp - Closed",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-07T11:36:49.757Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
     "title": "H1 3 Road - Closed",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-07T11:29:40.247Z",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-07T13:40:20.295Z",
     "source": "Kruger Status"
   },
   {
@@ -29,19 +20,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Phabeni Gate - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-07T11:07:31.521Z",
+    "icon": "&#x1F6AB;",
+    "title": "Mopani Camp - Closed",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-07T11:57:14.733Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "S1 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-06T17:02:23.542Z",
+    "title": "Phabeni Gate - Limited access",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-07T13:41:10.015Z",
     "source": "Kruger Status"
   },
   {
@@ -66,24 +57,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Lower Sabie Camp - Open",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-07T10:54:02.211Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Olifants Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-06T16:44:04.325Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Balule Camp - Open",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-06-07T11:26:52.097Z",
@@ -93,9 +66,27 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Shimuwini Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-06T07:02:38.306Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Sirheni Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-06T07:02:22.677Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Lower Sabie Camp - Open",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-07T10:54:02.211Z",
     "source": "Kruger Status"
   },
   {
@@ -111,9 +102,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Shimuwini Camp - Last known: closed",
+    "title": "Olifants Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-06T07:02:38.306Z",
+    "time": "2026-06-06T16:44:04.325Z",
     "source": "Kruger Status"
   }
 ]
