@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Mopani Camp - Closed",
     "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-08T00:20:23.296Z",
+    "time": "2026-06-08T14:09:29.066Z",
     "source": "Kruger Status"
   },
   {
@@ -14,7 +14,7 @@
     "icon": "&#x1F6AB;",
     "title": "Olifants Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-07T18:52:17.344Z",
+    "time": "2026-06-08T12:36:07.046Z",
     "source": "Kruger Status"
   },
   {
@@ -22,7 +22,7 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "H1 3 Road - Closed",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
     "time": "2026-06-08T08:21:36.162Z",
     "source": "Kruger Status"
   },
@@ -31,7 +31,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Phabeni Gate - Limited access",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
     "time": "2026-06-07T16:28:43.032Z",
     "source": "Kruger Status"
   },
@@ -51,6 +51,15 @@
     "title": "H4 2 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-07T14:01:34.148Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "S100 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-07T21:28:25.335Z",
     "source": "Kruger Status"
   },
   {
@@ -76,7 +85,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Balule Camp - Open",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-06-07T16:33:56.842Z",
     "source": "Kruger Status"
   },
@@ -85,8 +94,8 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Letaba Camp - Last known: open",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-08T08:54:23.660Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-08T13:50:36.133Z",
     "source": "Kruger Status"
   },
   {
@@ -96,15 +105,6 @@
     "title": "Punda Maria Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-06-08T09:19:58.526Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "S100 Road - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-07T21:28:25.335Z",
     "source": "Kruger Status"
   }
 ]
