@@ -12,9 +12,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Punda Maria Camp - Closed",
+    "title": "Olifants Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-07T17:13:52.253Z",
+    "time": "2026-06-07T18:52:17.344Z",
     "source": "Kruger Status"
   },
   {
@@ -23,7 +23,7 @@
     "icon": "&#x1F6AB;",
     "title": "H1 3 Road - Closed",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-07T13:40:20.295Z",
+    "time": "2026-06-08T08:21:36.162Z",
     "source": "Kruger Status"
   },
   {
@@ -33,6 +33,15 @@
     "title": "Phabeni Gate - Limited access",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
     "time": "2026-06-07T16:28:43.032Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "H1 8 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-08T09:14:19.716Z",
     "source": "Kruger Status"
   },
   {
@@ -74,37 +83,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Shimuwini Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-06T07:02:38.306Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Sirheni Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-06T07:02:22.677Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x26AA;",
     "title": "Letaba Camp - Last known: open",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-07T21:36:36.252Z",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-08T08:54:23.660Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Olifants Camp - Last known: closed",
+    "title": "Punda Maria Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-07T18:52:17.344Z",
+    "time": "2026-06-08T09:19:58.526Z",
     "source": "Kruger Status"
   },
   {
