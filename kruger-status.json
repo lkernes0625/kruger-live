@@ -3,15 +3,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Balule Camp - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-09T17:09:29.833Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
     "title": "Sirheni Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-09T12:27:47.971Z",
@@ -23,7 +14,7 @@
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-09T06:44:10.793Z",
+    "time": "2026-06-09T19:53:02.250Z",
     "source": "Kruger Status"
   },
   {
@@ -31,7 +22,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Mopani Camp - Limited access",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
     "time": "2026-06-09T17:23:27.249Z",
     "source": "Kruger Status"
   },
@@ -84,6 +75,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Olifants Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-09T19:53:34.042Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Punda Maria Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-08T09:19:58.526Z",
@@ -92,10 +92,19 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Bateleur Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-09T19:43:59.037Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Olifants Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-09T17:32:27.255Z",
+    "title": "Balule Camp - Last known: closed",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-09T19:44:14.431Z",
     "source": "Kruger Status"
   },
   {
