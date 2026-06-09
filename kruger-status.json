@@ -56,15 +56,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "S100 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-07T21:28:25.335Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Lower Sabie Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -122,7 +113,7 @@
     "icon": "&#x26AA;",
     "title": "H1 3 Road - Last known: closed",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-09T16:42:54.361Z",
+    "time": "2026-06-09T21:23:56.249Z",
     "source": "Kruger Status"
   },
   {
