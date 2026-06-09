@@ -39,15 +39,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E2;",
-    "title": "H1 8 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-08T09:14:19.716Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
     "title": "H4 2 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-07T14:01:34.148Z",
@@ -67,7 +58,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Berg En Dal Camp - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-07T08:03:24.249Z",
     "source": "Kruger Status"
   },
@@ -96,6 +87,15 @@
     "title": "Punda Maria Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-06-08T09:19:58.526Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "H1 8 Road - Last known: open",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-09T03:44:37.908Z",
     "source": "Kruger Status"
   }
 ]
