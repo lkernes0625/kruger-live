@@ -11,6 +11,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "H1 8 Road - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-09T09:31:01.613Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -75,15 +84,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Punda Maria Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-08T09:19:58.526Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Bateleur Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-09T19:43:59.037Z",
@@ -114,15 +114,6 @@
     "title": "H1 3 Road - Last known: closed",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
     "time": "2026-06-09T21:23:56.249Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "H1 8 Road - Last known: open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-09T09:31:01.613Z",
     "source": "Kruger Status"
   }
 ]
