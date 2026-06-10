@@ -49,8 +49,8 @@
     "tag": "road",
     "icon": "&#x1F7E2;",
     "title": "H1 1 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-09T10:10:11.752Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-10T14:48:02.278Z",
     "source": "Kruger Status"
   },
   {
@@ -66,9 +66,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Lower Sabie Camp - Open",
+    "title": "Punda Maria Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-08T15:18:29.751Z",
+    "time": "2026-06-10T17:48:23.161Z",
     "source": "Kruger Status"
   },
   {
@@ -102,18 +102,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Phabeni Gate - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-09T15:06:56.245Z",
+    "title": "H1 3 Road - Last known: closed",
+    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-10T17:14:07.199Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "H1 3 Road - Last known: closed",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-09T21:23:56.249Z",
+    "title": "Phabeni Gate - Last known: limited",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-09T15:06:56.245Z",
     "source": "Kruger Status"
   }
 ]
