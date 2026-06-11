@@ -11,28 +11,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "H1 8 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-09T09:31:01.613Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-09T19:53:02.250Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Mopani Camp - Limited access",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-06-09T17:23:27.249Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Phabeni Gate - Limited access",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-11T07:12:27.335Z",
     "source": "Kruger Status"
   },
   {
@@ -49,8 +40,8 @@
     "tag": "road",
     "icon": "&#x1F7E2;",
     "title": "H1 1 Road - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-10T14:48:02.278Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-11T08:51:28.498Z",
     "source": "Kruger Status"
   },
   {
@@ -102,17 +93,8 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Phabeni Gate - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-09T15:06:56.245Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
     "title": "H1 3 Road - Last known: closed",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
     "time": "2026-06-10T21:13:14.856Z",
     "source": "Kruger Status"
   }
