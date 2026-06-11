@@ -2,10 +2,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Mopani Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-11T09:25:01.862Z",
+    "icon": "&#x1F6AB;",
+    "title": "S41 Road - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-11T15:50:09.237Z",
     "source": "Kruger Status"
   },
   {
@@ -13,7 +13,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Phabeni Gate - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-11T07:12:27.335Z",
     "source": "Kruger Status"
   },
@@ -21,9 +21,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "H1 7 Road - Limited access",
+    "title": "S100 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-09T17:28:27.822Z",
+    "time": "2026-06-11T15:50:00.357Z",
     "source": "Kruger Status"
   },
   {
@@ -38,19 +38,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H1 3 Road - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-10T21:13:14.856Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H12 Road - Open",
+    "icon": "&#x1F3D5;",
+    "title": "Mopani Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-09T16:43:20.926Z",
+    "time": "2026-06-11T17:19:17.559Z",
     "source": "Kruger Status"
   },
   {
@@ -75,6 +66,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Balule Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-10T12:24:37.268Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Bateleur Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-09T19:43:59.037Z",
@@ -84,9 +84,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Balule Camp - Last known: closed",
+    "title": "H1 3 Road - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-10T12:24:37.268Z",
+    "time": "2026-06-11T17:39:57.179Z",
     "source": "Kruger Status"
   }
 ]
