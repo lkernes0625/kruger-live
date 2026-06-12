@@ -65,19 +65,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H1 3 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-11T17:39:57.179Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Mopani Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-11T17:19:17.559Z",
+    "time": "2026-06-12T17:28:15.586Z",
     "source": "Kruger Status"
   },
   {
@@ -87,15 +78,6 @@
     "title": "Olifants Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-12T11:27:37.922Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Punda Maria Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-10T19:19:47.911Z",
     "source": "Kruger Status"
   },
   {
