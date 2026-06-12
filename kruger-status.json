@@ -3,18 +3,27 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "H1 2 Road - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-12T11:40:28.933Z",
+    "title": "Balule Camp - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-12T09:14:22.749Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Balule Camp - Closed",
+    "title": "Orpen Gate - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-12T09:14:22.749Z",
+    "time": "2026-06-12T16:18:03.421Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "H1 2 Road - Closed",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-12T11:40:28.933Z",
     "source": "Kruger Status"
   },
   {
@@ -49,26 +58,17 @@
     "tag": "road",
     "icon": "&#x1F7E2;",
     "title": "H1 1 Road - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-11T08:51:28.498Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Olifants Camp - Open",
+    "icon": "&#x1F7E2;",
+    "title": "H1 3 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-12T11:27:37.922Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Bateleur Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-12T12:21:59.814Z",
+    "time": "2026-06-11T17:39:57.179Z",
     "source": "Kruger Status"
   },
   {
@@ -84,6 +84,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Olifants Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-12T11:27:37.922Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Punda Maria Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-10T19:19:47.911Z",
@@ -93,9 +102,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "H1 3 Road - Last known: open",
+    "title": "Bateleur Camp - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-11T17:39:57.179Z",
+    "time": "2026-06-12T12:52:11.589Z",
     "source": "Kruger Status"
   }
 ]
