@@ -13,8 +13,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "H1 2 Road - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-12T22:17:47.532Z",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-13T05:57:23.265Z",
     "source": "Kruger Status"
   },
   {
@@ -24,15 +24,6 @@
     "title": "S41 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-11T15:50:09.237Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Phabeni Gate - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-12T09:45:12.046Z",
     "source": "Kruger Status"
   },
   {
