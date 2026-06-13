@@ -74,6 +74,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Orpen Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-13T01:06:08.473Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x26AA;",
     "title": "Bateleur Camp - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
