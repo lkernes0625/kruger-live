@@ -2,19 +2,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "Balule Camp - Closed",
+    "icon": "&#x1F7E2;",
+    "title": "H1 4 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-13T14:18:51.860Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "H1 2 Road - Closed",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-13T05:57:23.265Z",
+    "time": "2026-06-13T20:46:15.899Z",
     "source": "Kruger Status"
   },
   {
@@ -42,6 +33,15 @@
     "title": "Bateleur Camp - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-06-12T12:52:11.589Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "H1 2 Road - Last known: closed",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-13T20:46:32.984Z",
     "source": "Kruger Status"
   }
 ]
