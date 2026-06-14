@@ -12,9 +12,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Olifants Camp - Open",
+    "title": "Lower Sabie Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-12T11:27:37.922Z",
+    "time": "2026-06-14T13:33:29.050Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Punda Maria Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-14T11:59:12.365Z",
     "source": "Kruger Status"
   },
   {
@@ -22,8 +31,8 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Balule Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-14T10:06:44.442Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-14T14:20:24.495Z",
     "source": "Kruger Status"
   },
   {
@@ -39,18 +48,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Bateleur Camp - Last known: open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-14T02:55:23.983Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
     "title": "H1 2 Road - Last known: closed",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-14T10:00:36.655Z",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-14T12:23:48.932Z",
     "source": "Kruger Status"
   }
 ]
