@@ -3,6 +3,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
+    "title": "Satara Camp - Closed",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-16T12:45:38.560Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
     "title": "H1 8 Road - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-06-15T12:46:07.790Z",
@@ -14,7 +23,7 @@
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-15T11:14:46.202Z",
+    "time": "2026-06-16T14:57:58.176Z",
     "source": "Kruger Status"
   },
   {
@@ -31,7 +40,7 @@
     "tag": "road",
     "icon": "&#x1F7E2;",
     "title": "H1 2 Road - Open",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-06-15T19:21:19.545Z",
     "source": "Kruger Status"
   },
@@ -57,15 +66,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Lower Sabie Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-14T13:33:29.050Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Mopani Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-15T13:19:39.027Z",
@@ -75,18 +75,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Punda Maria Camp - Open",
+    "title": "Shingwedzi Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-14T11:59:12.365Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Balule Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-16T10:04:36.168Z",
+    "time": "2026-06-16T12:27:10.650Z",
     "source": "Kruger Status"
   },
   {
@@ -96,15 +87,6 @@
     "title": "Talamati Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-15T16:27:30.301Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Satara Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-16T04:37:35.062Z",
     "source": "Kruger Status"
   }
 ]
