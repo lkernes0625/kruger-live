@@ -2,19 +2,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "H1 8 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-15T12:46:07.790Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-16T19:21:54.230Z",
+    "time": "2026-06-17T10:16:41.415Z",
     "source": "Kruger Status"
   },
   {
@@ -38,10 +29,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H1 4 Road - Open",
+    "icon": "&#x1F3D5;",
+    "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-15T09:54:14.210Z",
+    "time": "2026-06-17T07:41:31.851Z",
     "source": "Kruger Status"
   },
   {
@@ -51,6 +42,15 @@
     "title": "Mopani Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-15T13:19:39.027Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Satara Camp - Open",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-16T20:03:00.161Z",
     "source": "Kruger Status"
   },
   {
@@ -68,7 +68,7 @@
     "icon": "&#x1F3D5;",
     "title": "Balule Camp - Open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-16T17:57:19.616Z",
+    "time": "2026-06-17T09:28:30.388Z",
     "source": "Kruger Status"
   },
   {
@@ -84,9 +84,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Satara Camp - Last known: closed",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-16T20:03:00.161Z",
+    "title": "H1 8 Road - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-17T10:54:32.100Z",
     "source": "Kruger Status"
   }
 ]
