@@ -12,18 +12,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "H1 8 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-17T10:54:32.100Z",
+    "title": "H1 7 Road - Limited access",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-17T17:21:22.849Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "H1 7 Road - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-17T17:21:22.849Z",
+    "title": "H1 8 Road - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-17T10:54:32.100Z",
     "source": "Kruger Status"
   },
   {
@@ -33,15 +33,6 @@
     "title": "H1 1 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-16T16:27:24.181Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H1 2 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-15T19:21:19.545Z",
     "source": "Kruger Status"
   },
   {
