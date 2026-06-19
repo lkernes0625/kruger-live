@@ -3,18 +3,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Satara Camp - Closed",
+    "title": "Balule Camp - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-19T12:07:21.533Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "Biyamiti Camp - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-18T20:28:07.575Z",
+    "time": "2026-06-19T14:22:43.797Z",
     "source": "Kruger Status"
   },
   {
@@ -29,6 +20,24 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "H1 8 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-19T13:43:47.077Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Sirheni Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-19T13:42:50.097Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Talamati Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -38,10 +47,28 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Phabeni Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-19T14:01:31.671Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Balule Camp - Last known: open",
+    "title": "Satara Camp - Last known: closed",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-19T14:26:37.404Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Biyamiti Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-18T20:39:20.570Z",
+    "time": "2026-06-19T13:42:30.207Z",
     "source": "Kruger Status"
   }
 ]
