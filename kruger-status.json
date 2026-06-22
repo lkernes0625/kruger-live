@@ -3,27 +3,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Berg En Dal Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-21T19:02:22.160Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "S100 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-21T11:54:12.923Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Biyamiti Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-20T06:14:26.206Z",
     "source": "Kruger Status"
   },
   {
@@ -40,7 +22,7 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Satara Camp - Last known: open",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-06-21T12:02:29.071Z",
     "source": "Kruger Status"
   }
