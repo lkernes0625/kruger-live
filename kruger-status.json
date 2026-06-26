@@ -3,8 +3,17 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
+    "title": "Letaba Camp - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-26T08:44:25.821Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
     "title": "H1 1 Road - Closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-26T07:54:01.150Z",
     "source": "Kruger Status"
   },
