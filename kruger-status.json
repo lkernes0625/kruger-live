@@ -13,8 +13,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "S100 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-26T07:47:28.808Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-26T17:29:38.363Z",
     "source": "Kruger Status"
   },
   {
@@ -22,7 +22,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Shimuwini Camp - Limited access",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-06-26T13:38:45.656Z",
     "source": "Kruger Status"
   },
@@ -33,15 +33,6 @@
     "title": "S41 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-26T07:51:36.971Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Mopani Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-24T16:56:20.157Z",
     "source": "Kruger Status"
   },
   {
