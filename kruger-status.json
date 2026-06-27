@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Letaba Camp - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-27T11:00:06.445Z",
+    "time": "2026-06-27T16:42:49.135Z",
     "source": "Kruger Status"
   },
   {
@@ -48,18 +48,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Shingwedzi Camp - Open",
+    "title": "Bateleur Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-27T13:42:49.107Z",
+    "time": "2026-06-27T06:12:38.125Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Bateleur Camp - Open",
+    "title": "Shingwedzi Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-27T06:12:38.125Z",
+    "time": "2026-06-27T13:42:49.107Z",
     "source": "Kruger Status"
   }
 ]
