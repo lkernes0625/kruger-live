@@ -3,18 +3,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Letaba Camp - Closed",
+    "title": "S100 Road - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-27T16:42:49.135Z",
+    "time": "2026-06-27T18:31:51.098Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "S100 Road - Closed",
+    "title": "Letaba Camp - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-27T18:31:51.098Z",
+    "time": "2026-06-27T16:42:49.135Z",
     "source": "Kruger Status"
   },
   {
@@ -29,19 +29,28 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "S41 Road - Limited access",
+    "icon": "&#x1F7E2;",
+    "title": "H1 3 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-26T07:51:36.971Z",
+    "time": "2026-06-27T20:06:29.310Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "H7 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-27T20:06:09.981Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Satara Camp - Open",
+    "title": "Shingwedzi Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-27T11:00:25.980Z",
+    "time": "2026-06-27T13:42:49.107Z",
     "source": "Kruger Status"
   },
   {
@@ -56,10 +65,28 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Shingwedzi Camp - Open",
+    "icon": "&#x1F697;",
+    "title": "Paul Kruger Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-27T13:42:49.107Z",
+    "time": "2026-06-27T20:20:19.128Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Numbi Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-27T20:20:23.326Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "S41 Road - Last known: limited",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-27T20:05:28.543Z",
     "source": "Kruger Status"
   }
 ]
