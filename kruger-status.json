@@ -3,9 +3,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "S100 Road - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-28T11:30:12.570Z",
+    "title": "H1 5 Road - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-28T16:56:52.462Z",
     "source": "Kruger Status"
   },
   {
@@ -15,6 +15,15 @@
     "title": "S41 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-27T20:05:28.543Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "S100 Road - Closed",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-28T11:30:12.570Z",
     "source": "Kruger Status"
   },
   {
