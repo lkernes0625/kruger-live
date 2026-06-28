@@ -3,15 +3,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "S41 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-27T20:05:28.543Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
     "title": "S100 Road - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-06-28T11:30:12.570Z",
@@ -20,10 +11,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Shimuwini Camp - Limited access",
+    "icon": "&#x1F6AB;",
+    "title": "S41 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-26T13:38:45.656Z",
+    "time": "2026-06-27T20:05:28.543Z",
     "source": "Kruger Status"
   },
   {
@@ -94,8 +85,8 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Letaba Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-27T16:42:49.135Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-28T14:18:44.034Z",
     "source": "Kruger Status"
   }
 ]
