@@ -12,8 +12,17 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
+    "title": "S41 Road - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-27T20:05:28.543Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
     "title": "S100 Road - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-06-27T18:31:51.098Z",
     "source": "Kruger Status"
   },
@@ -78,15 +87,6 @@
     "title": "Numbi Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-27T20:20:23.326Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "S41 Road - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-27T20:05:28.543Z",
     "source": "Kruger Status"
   }
 ]
