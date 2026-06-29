@@ -32,7 +32,7 @@
     "icon": "&#x1F7E1;",
     "title": "H1 1 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-28T12:41:35.660Z",
+    "time": "2026-06-29T08:38:03.006Z",
     "source": "Kruger Status"
   },
   {
@@ -65,15 +65,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Bateleur Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-27T06:12:38.125Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F697;",
     "title": "Paul Kruger Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -94,7 +85,7 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Letaba Camp - Last known: closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-06-28T14:18:44.034Z",
     "source": "Kruger Status"
   }
