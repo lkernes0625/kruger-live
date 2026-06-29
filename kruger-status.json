@@ -3,9 +3,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "H1 5 Road - Closed",
+    "title": "Orpen Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-29T03:45:55.415Z",
+    "time": "2026-06-29T15:59:55.147Z",
     "source": "Kruger Status"
   },
   {
@@ -23,7 +23,16 @@
     "icon": "&#x1F6AB;",
     "title": "S100 Road - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-28T11:30:12.570Z",
+    "time": "2026-06-29T14:11:24.901Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "H1 5 Road - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-06-29T03:45:55.415Z",
     "source": "Kruger Status"
   },
   {
@@ -31,8 +40,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Berg En Dal Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-29T09:36:31.576Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-06-29T17:00:04.329Z",
     "source": "Kruger Status"
   },
   {
@@ -68,7 +77,7 @@
     "icon": "&#x1F3D5;",
     "title": "Letaba Camp - Open",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-06-29T13:46:49.130Z",
+    "time": "2026-06-29T17:30:46.188Z",
     "source": "Kruger Status"
   },
   {
@@ -78,15 +87,6 @@
     "title": "Satara Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-06-29T11:23:27.973Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Shingwedzi Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-06-28T17:35:52.469Z",
     "source": "Kruger Status"
   },
   {
