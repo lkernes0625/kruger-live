@@ -14,7 +14,7 @@
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-01T21:11:17.500Z",
+    "time": "2026-07-02T07:33:37.997Z",
     "source": "Kruger Status"
   },
   {
@@ -51,6 +51,15 @@
     "title": "Skukuza Camp - Open",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-07-01T13:37:32.037Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Sirheni Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-02T07:53:08.090Z",
     "source": "Kruger Status"
   },
   {
