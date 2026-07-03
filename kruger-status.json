@@ -48,15 +48,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Pretoriuskop Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-01T05:28:25.654Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Skukuza Camp - Open",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-07-01T13:37:32.037Z",
@@ -67,17 +58,8 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Sirheni Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-02T07:53:08.090Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F697;",
-    "title": "Numbi Gate - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-01T05:28:41.679Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-03T06:32:09.535Z",
     "source": "Kruger Status"
   },
   {
@@ -95,7 +77,7 @@
     "icon": "&#x26AA;",
     "title": "Letaba Camp - Last known: limited",
     "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-03T03:45:24.309Z",
+    "time": "2026-07-03T05:41:13.083Z",
     "source": "Kruger Status"
   }
 ]
