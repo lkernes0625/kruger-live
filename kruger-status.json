@@ -12,24 +12,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E2;",
-    "title": "H1 1 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-02T16:01:01.659Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H1 7 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-02T16:00:28.748Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
     "title": "H12 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-03T13:47:20.053Z",
@@ -39,18 +21,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Sirheni Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-03T06:32:09.535Z",
+    "title": "Letaba Camp - Open",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-03T17:58:21.232Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Letaba Camp - Last known: limited",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-03T17:58:21.232Z",
+    "icon": "&#x1F3D5;",
+    "title": "Sirheni Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-03T06:32:09.535Z",
     "source": "Kruger Status"
   }
 ]
