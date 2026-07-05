@@ -5,7 +5,7 @@
     "icon": "&#x1F7E1;",
     "title": "Berg En Dal Camp - Limited access",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-04T19:27:34.264Z",
+    "time": "2026-07-05T05:00:57.221Z",
     "source": "Kruger Status"
   },
   {
@@ -24,15 +24,6 @@
     "title": "H12 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-03T13:47:20.053Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Sirheni Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-03T06:32:09.535Z",
     "source": "Kruger Status"
   }
 ]
