@@ -66,18 +66,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Crocodile Bridge Camp - Last known: closed",
+    "title": "Letaba Camp - Last known: limited",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-06T22:04:51.712Z",
+    "time": "2026-07-06T21:16:34.115Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Letaba Camp - Last known: limited",
+    "title": "Crocodile Bridge Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-06T21:16:34.115Z",
+    "time": "2026-07-06T22:04:51.712Z",
     "source": "Kruger Status"
   }
 ]
