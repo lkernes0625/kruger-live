@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Balule Camp - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-07T14:35:55.538Z",
+    "time": "2026-07-08T05:52:50.413Z",
     "source": "Kruger Status"
   },
   {
@@ -15,15 +15,6 @@
     "title": "Shimuwini Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-06T15:44:06.087Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "Crocodile Bridge Gate - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-07T18:24:17.938Z",
     "source": "Kruger Status"
   },
   {
@@ -84,6 +75,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Crocodile Bridge Camp - Open",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-08T03:45:14.166Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Lower Sabie Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-06T21:17:02.343Z",
@@ -110,10 +110,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Crocodile Bridge Camp - Last known: closed",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-07T21:18:54.862Z",
+    "icon": "&#x1F697;",
+    "title": "Crocodile Bridge Gate - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-08T03:43:32.794Z",
     "source": "Kruger Status"
   },
   {
