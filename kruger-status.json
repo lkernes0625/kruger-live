@@ -21,15 +21,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "S1 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-06T16:35:38.803Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "S100 Road - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-07T16:55:36.608Z",
@@ -57,18 +48,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Berg En Dal Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-07T15:50:02.407Z",
+    "title": "Crocodile Bridge Camp - Open",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-08T08:32:45.343Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Crocodile Bridge Camp - Open",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-08T08:32:45.343Z",
+    "title": "Berg En Dal Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-07T15:50:02.407Z",
     "source": "Kruger Status"
   },
   {
@@ -113,7 +104,7 @@
     "icon": "&#x26AA;",
     "title": "Letaba Camp - Last known: limited",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-08T11:53:12.735Z",
+    "time": "2026-07-08T14:39:55.902Z",
     "source": "Kruger Status"
   }
 ]
