@@ -4,7 +4,7 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Balule Camp - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-08T13:55:42.828Z",
     "source": "Kruger Status"
   },
@@ -12,9 +12,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Shingwedzi Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-09T12:25:43.682Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Malelane Gate - Limited access",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-09T06:28:18.144Z",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-09T14:45:03.727Z",
     "source": "Kruger Status"
   },
   {
@@ -31,7 +40,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "S100 Road - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-07T16:55:36.608Z",
     "source": "Kruger Status"
   },
@@ -40,17 +49,8 @@
     "tag": "road",
     "icon": "&#x1F7E2;",
     "title": "H1 5 Road - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-07T19:59:59.714Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "S44 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-07T14:39:33.285Z",
+    "time": "2026-07-07T19:59:59.714Z",
     "source": "Kruger Status"
   },
   {
@@ -76,7 +76,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Biyamiti Camp - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-07T17:11:33.307Z",
     "source": "Kruger Status"
   },
@@ -85,7 +85,7 @@
     "tag": "road",
     "icon": "&#x1F697;",
     "title": "Crocodile Bridge Gate - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-08T03:43:32.794Z",
     "source": "Kruger Status"
   },
