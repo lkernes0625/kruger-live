@@ -11,15 +11,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "S1 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-08T18:05:29.816Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x26AA;",
     "title": "Shingwedzi Camp - Last known: limited",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
