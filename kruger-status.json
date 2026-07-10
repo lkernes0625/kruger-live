@@ -3,27 +3,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
+    "title": "Letaba Camp - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-08T19:23:08.223Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
     "title": "Balule Camp - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-09T17:24:17.839Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Shingwedzi Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-09T12:25:43.682Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Malelane Gate - Limited access",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-09T18:53:11.063Z",
     "source": "Kruger Status"
   },
   {
@@ -39,9 +30,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Letaba Camp - Last known: limited",
+    "title": "Shingwedzi Camp - Last known: limited",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-08T19:23:08.223Z",
+    "time": "2026-07-10T08:15:40.862Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Malelane Gate - Last known: limited",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-09T18:53:11.063Z",
     "source": "Kruger Status"
   }
 ]
