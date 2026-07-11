@@ -12,6 +12,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Letaba Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-11T20:15:01.024Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Punda Maria Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-11T08:33:00.449Z",
@@ -24,15 +33,6 @@
     "title": "S65 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-10T18:40:35.182Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-11T20:15:01.024Z",
     "source": "Kruger Status"
   },
   {
