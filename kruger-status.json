@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Malelane Gate - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-11T18:45:59.372Z",
+    "time": "2026-07-12T08:17:33.596Z",
     "source": "Kruger Status"
   },
   {
@@ -13,8 +13,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-11T20:15:01.024Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-12T08:26:57.435Z",
     "source": "Kruger Status"
   },
   {
@@ -60,15 +60,6 @@
     "title": "H4 2 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-11T08:39:00.480Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Shingwedzi Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-11T13:26:46.377Z",
     "source": "Kruger Status"
   }
 ]
