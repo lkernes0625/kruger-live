@@ -13,7 +13,7 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Malelane Gate - Closed",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
     "time": "2026-07-13T15:42:46.090Z",
     "source": "Kruger Status"
   },
@@ -24,6 +24,15 @@
     "title": "S65 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-13T11:45:47.654Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Letaba Camp - Limited access",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-12T16:34:26.430Z",
     "source": "Kruger Status"
   },
   {
@@ -42,15 +51,6 @@
     "title": "S100 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-13T07:57:32.504Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-12T16:34:26.430Z",
     "source": "Kruger Status"
   },
   {
