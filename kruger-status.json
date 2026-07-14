@@ -57,6 +57,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Berg En Dal Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-14T15:38:21.236Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Punda Maria Camp - Open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-13T09:12:40.865Z",
@@ -75,9 +84,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Berg En Dal Camp - Last known: limited",
+    "title": "Letaba Camp - Last known: limited",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-13T22:07:32.794Z",
+    "time": "2026-07-14T09:39:16.740Z",
     "source": "Kruger Status"
   },
   {
@@ -87,15 +96,6 @@
     "title": "Balule Camp - Last known: open",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
     "time": "2026-07-14T06:13:12.262Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Letaba Camp - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-14T09:39:16.740Z",
     "source": "Kruger Status"
   }
 ]
