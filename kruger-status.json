@@ -29,19 +29,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Lower Sabie Camp - Open",
+    "icon": "&#x1F7E2;",
+    "title": "H1 6 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-15T06:55:19.731Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Balule Camp - Open",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-15T15:59:08.443Z",
+    "time": "2026-07-15T16:32:40.887Z",
     "source": "Kruger Status"
   },
   {
@@ -49,7 +40,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Berg En Dal Camp - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-14T15:38:21.236Z",
     "source": "Kruger Status"
   },
@@ -66,9 +57,27 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Lower Sabie Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-15T06:55:19.731Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Shingwedzi Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-14T17:00:11.392Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Balule Camp - Open",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-15T15:59:08.443Z",
     "source": "Kruger Status"
   }
 ]
