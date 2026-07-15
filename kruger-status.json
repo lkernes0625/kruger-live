@@ -39,6 +39,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E2;",
+    "title": "H1 4 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-15T09:54:43.692Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
     "title": "S3 Skukuza Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-13T13:32:58.645Z",
@@ -69,15 +78,6 @@
     "title": "Lower Sabie Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-15T06:55:19.731Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Punda Maria Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-13T09:12:40.865Z",
     "source": "Kruger Status"
   },
   {
