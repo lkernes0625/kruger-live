@@ -11,15 +11,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Bateleur Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-16T10:47:33.044Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F7E2;",
     "title": "H1 4 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -105,6 +96,15 @@
     "title": "Mopani Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-16T07:26:23.703Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Bateleur Camp - Last known: limited",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-16T10:47:33.044Z",
     "source": "Kruger Status"
   }
 ]
