@@ -2,6 +2,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "S100 Road - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-18T10:38:04.660Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Mopani Camp - Open",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
@@ -20,19 +29,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Balule Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-17T16:39:52.402Z",
+    "icon": "&#x1F3D5;",
+    "title": "Bateleur Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-17T01:36:31.899Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Bateleur Camp - Last known: open",
+    "title": "Balule Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-17T01:36:31.899Z",
+    "time": "2026-07-17T16:39:52.402Z",
     "source": "Kruger Status"
   }
 ]
