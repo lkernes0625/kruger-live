@@ -65,6 +65,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Malelane Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-18T02:50:28.746Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x26AA;",
     "title": "Mopani Camp - Last known: open",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
@@ -78,15 +87,6 @@
     "title": "Balule Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-17T16:39:52.402Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Malelane Gate - Last known: closed",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-17T04:19:00.632Z",
     "source": "Kruger Status"
   }
 ]
