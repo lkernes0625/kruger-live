@@ -13,17 +13,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-19T20:46:53.836Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "H1 2 Road - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-20T11:14:45.836Z",
+    "time": "2026-07-20T15:19:48.334Z",
     "source": "Kruger Status"
   },
   {
@@ -33,6 +24,15 @@
     "title": "S100 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-19T05:49:11.284Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "H1 2 Road - Limited access",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-20T11:14:45.836Z",
     "source": "Kruger Status"
   },
   {
