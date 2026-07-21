@@ -3,24 +3,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Lower Sabie Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-21T09:21:15.276Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "H1 2 Road - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-21T12:16:05.524Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-21T06:15:31.856Z",
@@ -30,9 +12,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Lower Sabie Camp - Limited access",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-21T15:20:11.033Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Orpen Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-21T02:53:11.099Z",
+    "time": "2026-07-21T15:21:28.379Z",
     "source": "Kruger Status"
   },
   {
@@ -76,8 +67,17 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Malelane Gate - Last known: closed",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-21T12:23:59.153Z",
+    "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-21T15:06:24.189Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "H1 2 Road - Last known: limited",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-21T15:26:38.714Z",
     "source": "Kruger Status"
   }
 ]
