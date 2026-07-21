@@ -2,10 +2,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-21T06:15:31.856Z",
+    "icon": "&#x1F6AB;",
+    "title": "Malelane Gate - Closed",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-21T11:35:45.716Z",
     "source": "Kruger Status"
   },
   {
@@ -21,6 +21,24 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "H1 2 Road - Limited access",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-20T17:31:27.360Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Letaba Camp - Limited access",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-21T06:15:31.856Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Orpen Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-21T02:53:11.099Z",
@@ -29,10 +47,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "H1 2 Road - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-20T17:31:27.360Z",
+    "icon": "&#x1F7E2;",
+    "title": "S106 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-21T11:12:42.411Z",
     "source": "Kruger Status"
   },
   {
@@ -60,15 +78,6 @@
     "title": "Shimuwini Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-19T19:08:04.774Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Malelane Gate - Last known: closed",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-21T04:41:18.812Z",
     "source": "Kruger Status"
   }
 ]
