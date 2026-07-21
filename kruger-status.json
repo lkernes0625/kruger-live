@@ -4,8 +4,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-21T06:15:31.856Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-21T17:03:08.238Z",
     "source": "Kruger Status"
   },
   {
@@ -13,8 +13,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Lower Sabie Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-21T15:20:11.033Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-21T16:49:20.814Z",
     "source": "Kruger Status"
   },
   {
@@ -49,8 +49,17 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Olifants Camp - Open",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-21T17:03:00.654Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Satara Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-20T05:04:10.326Z",
+    "time": "2026-07-21T17:03:22.501Z",
     "source": "Kruger Status"
   },
   {
