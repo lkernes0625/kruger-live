@@ -74,15 +74,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Shimuwini Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-19T19:08:04.774Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x26AA;",
     "title": "Satara Camp - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
@@ -104,7 +95,7 @@
     "icon": "&#x26AA;",
     "title": "H1 2 Road - Last known: limited",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-21T15:26:38.714Z",
+    "time": "2026-07-21T19:39:27.791Z",
     "source": "Kruger Status"
   }
 ]
