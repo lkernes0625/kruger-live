@@ -57,17 +57,8 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Mopani Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-20T05:03:58.531Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Olifants Camp - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-21T17:03:00.654Z",
     "source": "Kruger Status"
   },
@@ -85,8 +76,8 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Malelane Gate - Last known: closed",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-22T01:16:23.723Z",
+    "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-22T06:49:33.040Z",
     "source": "Kruger Status"
   },
   {
