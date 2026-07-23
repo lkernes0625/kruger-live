@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Lower Sabie Camp - Closed",
     "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-23T04:08:57.748Z",
+    "time": "2026-07-23T08:43:07.841Z",
     "source": "Kruger Status"
   },
   {
@@ -22,8 +22,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Crocodile Bridge Camp - Limited access",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-23T08:29:59.697Z",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-23T10:35:37.379Z",
     "source": "Kruger Status"
   },
   {
@@ -60,6 +60,15 @@
     "title": "Olifants Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-21T17:03:00.654Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Sirheni Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-23T09:20:32.601Z",
     "source": "Kruger Status"
   },
   {
