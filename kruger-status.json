@@ -4,7 +4,7 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Lower Sabie Camp - Closed",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
     "time": "2026-07-23T16:34:07.965Z",
     "source": "Kruger Status"
   },
@@ -21,17 +21,8 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-23T04:50:58.604Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "Satara Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-23T05:12:34.728Z",
     "source": "Kruger Status"
   },
@@ -51,15 +42,6 @@
     "title": "Mopani Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-23T12:53:22.545Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Olifants Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-21T17:03:00.654Z",
     "source": "Kruger Status"
   },
   {
@@ -93,9 +75,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
+    "title": "Letaba Camp - Last known: limited",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-23T04:50:58.604Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
     "title": "Balule Camp - Last known: closed",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-23T15:47:23.241Z",
+    "time": "2026-07-23T16:44:25.462Z",
     "source": "Kruger Status"
   }
 ]
