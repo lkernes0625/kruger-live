@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Lower Sabie Camp - Closed",
     "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-22T18:44:02.568Z",
+    "time": "2026-07-23T04:08:57.748Z",
     "source": "Kruger Status"
   },
   {
@@ -14,7 +14,7 @@
     "icon": "&#x1F6AB;",
     "title": "Balule Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-21T18:08:15.346Z",
+    "time": "2026-07-23T05:08:32.821Z",
     "source": "Kruger Status"
   },
   {
@@ -23,7 +23,7 @@
     "icon": "&#x1F7E1;",
     "title": "Crocodile Bridge Camp - Limited access",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-22T14:26:15.240Z",
+    "time": "2026-07-23T05:17:06.415Z",
     "source": "Kruger Status"
   },
   {
@@ -32,16 +32,7 @@
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-22T18:44:08.200Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Orpen Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-22T10:27:28.621Z",
+    "time": "2026-07-23T04:50:58.604Z",
     "source": "Kruger Status"
   },
   {
@@ -50,7 +41,7 @@
     "icon": "&#x1F7E1;",
     "title": "Satara Camp - Limited access",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-22T18:00:05.348Z",
+    "time": "2026-07-23T05:12:34.728Z",
     "source": "Kruger Status"
   },
   {
@@ -74,9 +65,9 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Malelane Gate - Last known: closed",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "icon": "&#x1F697;",
+    "title": "Malelane Gate - Open",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
     "time": "2026-07-22T06:49:33.040Z",
     "source": "Kruger Status"
   },
