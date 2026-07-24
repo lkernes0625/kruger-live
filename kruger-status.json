@@ -20,18 +20,9 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Satara Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-24T12:20:20.076Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F7E2;",
     "title": "H1 2 Road - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-23T13:23:50.319Z",
     "source": "Kruger Status"
   },
@@ -67,7 +58,7 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Lower Sabie Camp - Last known: closed",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
     "time": "2026-07-24T12:09:05.295Z",
     "source": "Kruger Status"
   },
@@ -78,6 +69,15 @@
     "title": "Punda Maria Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-24T12:19:43.726Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Satara Camp - Last known: limited",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-24T12:20:20.076Z",
     "source": "Kruger Status"
   },
   {
