@@ -2,19 +2,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "Lower Sabie Camp - Closed",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-23T19:51:25.903Z",
+    "icon": "&#x1F7E1;",
+    "title": "Crocodile Bridge Camp - Limited access",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-23T19:40:34.450Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Crocodile Bridge Camp - Limited access",
+    "title": "Satara Camp - Limited access",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-23T19:40:34.450Z",
+    "time": "2026-07-24T06:17:43.069Z",
     "source": "Kruger Status"
   },
   {
@@ -33,15 +33,6 @@
     "title": "Mopani Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-23T12:53:22.545Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Balule Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-23T16:44:25.462Z",
     "source": "Kruger Status"
   },
   {
@@ -84,9 +75,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Satara Camp - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-23T19:51:42.447Z",
+    "title": "Lower Sabie Camp - Last known: closed",
+    "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-24T05:49:40.486Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Balule Camp - Last known: open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-24T04:59:37.129Z",
     "source": "Kruger Status"
   }
 ]
