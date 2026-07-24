@@ -2,6 +2,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "Letaba Camp - Closed",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-24T10:46:22.905Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Crocodile Bridge Camp - Limited access",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
@@ -14,7 +23,7 @@
     "icon": "&#x1F7E1;",
     "title": "Satara Camp - Limited access",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-24T06:17:43.069Z",
+    "time": "2026-07-24T12:20:20.076Z",
     "source": "Kruger Status"
   },
   {
@@ -57,18 +66,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Letaba Camp - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-23T04:50:58.604Z",
+    "title": "Lower Sabie Camp - Last known: closed",
+    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-24T12:09:05.295Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Lower Sabie Camp - Last known: closed",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-24T05:49:40.486Z",
+    "title": "Punda Maria Camp - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-24T12:19:43.726Z",
     "source": "Kruger Status"
   },
   {
@@ -77,7 +86,7 @@
     "icon": "&#x26AA;",
     "title": "Balule Camp - Last known: open",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-24T04:59:37.129Z",
+    "time": "2026-07-24T11:53:50.898Z",
     "source": "Kruger Status"
   }
 ]
