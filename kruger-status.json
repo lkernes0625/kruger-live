@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Letaba Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-24T10:46:22.905Z",
+    "time": "2026-07-25T07:34:25.516Z",
     "source": "Kruger Status"
   },
   {
@@ -13,7 +13,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Crocodile Bridge Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-25T06:24:46.358Z",
     "source": "Kruger Status"
   },
@@ -32,7 +32,16 @@
     "icon": "&#x1F7E1;",
     "title": "Satara Camp - Limited access",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-25T04:11:06.134Z",
+    "time": "2026-07-25T07:26:51.794Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "H1 1 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-25T09:47:08.166Z",
     "source": "Kruger Status"
   },
   {
@@ -42,6 +51,15 @@
     "title": "H1 2 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-23T13:23:50.319Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Lower Sabie Camp - Open",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-25T07:33:55.141Z",
     "source": "Kruger Status"
   },
   {
@@ -83,10 +101,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Lower Sabie Camp - Last known: closed",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-24T12:09:05.295Z",
+    "icon": "&#x1F697;",
+    "title": "Malelane Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-25T07:34:48.022Z",
     "source": "Kruger Status"
   },
   {
@@ -94,7 +112,7 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Balule Camp - Last known: open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-24T11:53:50.898Z",
     "source": "Kruger Status"
   }
