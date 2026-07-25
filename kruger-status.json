@@ -4,17 +4,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Letaba Camp - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-25T07:34:25.516Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Crocodile Bridge Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-25T06:24:46.358Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-25T14:31:53.752Z",
     "source": "Kruger Status"
   },
   {
@@ -47,19 +38,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H1 1 Road - Open",
+    "icon": "&#x1F7E1;",
+    "title": "Crocodile Bridge Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-25T09:47:08.166Z",
+    "time": "2026-07-25T14:01:42.157Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E2;",
-    "title": "H1 2 Road - Open",
+    "title": "H1 1 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-23T13:23:50.319Z",
+    "time": "2026-07-25T09:47:08.166Z",
     "source": "Kruger Status"
   },
   {
