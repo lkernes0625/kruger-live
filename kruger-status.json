@@ -12,9 +12,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Crocodile Bridge Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-25T14:01:42.157Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Orpen Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-25T04:11:10.155Z",
+    "time": "2026-07-25T16:53:08.350Z",
     "source": "Kruger Status"
   },
   {
@@ -31,17 +40,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Balule Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-25T13:25:27.792Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Crocodile Bridge Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-25T14:01:42.157Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-25T16:16:15.461Z",
     "source": "Kruger Status"
   },
   {
