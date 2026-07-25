@@ -30,6 +30,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Punda Maria Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-24T23:14:02.937Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Mopani Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-23T12:53:22.545Z",
@@ -60,15 +69,6 @@
     "title": "Lower Sabie Camp - Last known: closed",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
     "time": "2026-07-24T12:09:05.295Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Punda Maria Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-24T12:19:43.726Z",
     "source": "Kruger Status"
   },
   {
