@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Letaba Camp - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-25T14:31:53.752Z",
+    "time": "2026-07-25T17:03:03.589Z",
     "source": "Kruger Status"
   },
   {
@@ -15,15 +15,6 @@
     "title": "Crocodile Bridge Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-25T14:01:42.157Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Orpen Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-25T16:53:08.350Z",
     "source": "Kruger Status"
   },
   {
@@ -47,6 +38,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Orpen Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-25T16:53:08.350Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F7E2;",
     "title": "H1 1 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -58,8 +58,8 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Lower Sabie Camp - Open",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-25T07:33:55.141Z",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-25T17:03:13.904Z",
     "source": "Kruger Status"
   },
   {
