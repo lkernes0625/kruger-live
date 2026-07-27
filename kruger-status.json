@@ -3,9 +3,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Bateleur Camp - Closed",
+    "title": "H1 1 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-26T14:32:24.164Z",
+    "time": "2026-07-27T17:09:32.758Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "Bateleur Camp - Closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-27T20:06:29.310Z",
     "source": "Kruger Status"
   },
   {
@@ -15,15 +24,6 @@
     "title": "Biyamiti Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-27T11:31:13.829Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "H1 1 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-27T17:09:32.758Z",
     "source": "Kruger Status"
   },
   {
