@@ -30,9 +30,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Olifants Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-27T19:16:12.256Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Satara Camp - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-27T15:58:34.840Z",
+    "time": "2026-07-27T17:58:31.918Z",
     "source": "Kruger Status"
   },
   {
@@ -42,6 +51,15 @@
     "title": "Malelane Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-27T15:51:51.610Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "S1 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-27T17:50:59.472Z",
     "source": "Kruger Status"
   },
   {
@@ -68,7 +86,7 @@
     "icon": "&#x26AA;",
     "title": "Balule Camp - Last known: limited",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-27T15:08:31.387Z",
+    "time": "2026-07-27T18:33:00.563Z",
     "source": "Kruger Status"
   }
 ]
