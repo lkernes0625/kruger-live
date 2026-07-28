@@ -3,9 +3,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
+    "title": "Balule Camp - Closed",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-28T08:08:06.296Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
     "title": "Bateleur Camp - Closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-28T04:10:28.491Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-28T07:16:01.066Z",
     "source": "Kruger Status"
   },
   {
@@ -87,15 +96,6 @@
     "title": "Talamati Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-27T12:09:16.076Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Balule Camp - Last known: limited",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-28T03:59:03.391Z",
     "source": "Kruger Status"
   }
 ]
