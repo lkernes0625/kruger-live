@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Bateleur Camp - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-27T20:06:29.310Z",
+    "time": "2026-07-28T04:10:28.491Z",
     "source": "Kruger Status"
   },
   {
@@ -13,8 +13,17 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Biyamiti Camp - Closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-28T04:10:26.351Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "Shimuwini Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-27T11:31:13.829Z",
+    "time": "2026-07-28T04:10:34.854Z",
     "source": "Kruger Status"
   },
   {
@@ -86,7 +95,7 @@
     "icon": "&#x26AA;",
     "title": "Balule Camp - Last known: limited",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-27T18:33:00.563Z",
+    "time": "2026-07-28T03:59:03.391Z",
     "source": "Kruger Status"
   }
 ]
