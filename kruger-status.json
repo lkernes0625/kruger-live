@@ -3,9 +3,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
+    "title": "Biyamiti Camp - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-29T03:55:59.092Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
     "title": "Punda Maria Gate - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-28T20:39:58.980Z",
+    "time": "2026-07-29T03:56:48.735Z",
     "source": "Kruger Status"
   },
   {
@@ -105,15 +114,6 @@
     "title": "Satara Camp - Last known: limited",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-28T15:47:02.269Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Biyamiti Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-28T14:37:02.169Z",
     "source": "Kruger Status"
   }
 ]
