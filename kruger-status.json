@@ -40,7 +40,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Olifants Camp - Limited access",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
     "time": "2026-07-29T11:39:48.077Z",
     "source": "Kruger Status"
   },
@@ -69,15 +69,6 @@
     "title": "H1 1 Road - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-28T19:27:22.174Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "S1 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-27T17:50:59.472Z",
     "source": "Kruger Status"
   },
   {
