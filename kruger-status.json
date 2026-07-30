@@ -4,8 +4,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Bateleur Camp - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-29T15:25:55.974Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-30T20:34:56.711Z",
     "source": "Kruger Status"
   },
   {
@@ -13,17 +13,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Punda Maria Gate - Closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-07-30T07:46:34.005Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Olifants Camp - Limited access",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-30T13:46:18.007Z",
     "source": "Kruger Status"
   },
   {
@@ -39,9 +30,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "H1 1 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-30T19:11:20.819Z",
+    "title": "Olifants Camp - Limited access",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-30T13:46:18.007Z",
     "source": "Kruger Status"
   },
   {
