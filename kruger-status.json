@@ -11,24 +11,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "H1 2 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-28T14:02:07.256Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "S100 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-28T14:02:02.061Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -40,8 +22,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Olifants Camp - Limited access",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-29T11:39:48.077Z",
+    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-30T13:46:18.007Z",
     "source": "Kruger Status"
   },
   {
