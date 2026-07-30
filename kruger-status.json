@@ -22,7 +22,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Olifants Camp - Limited access",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
     "time": "2026-07-30T13:46:18.007Z",
     "source": "Kruger Status"
   },
@@ -41,16 +41,7 @@
     "icon": "&#x1F7E1;",
     "title": "H1 1 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-28T19:27:22.174Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Biyamiti Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-30T12:03:51.513Z",
+    "time": "2026-07-30T19:11:20.819Z",
     "source": "Kruger Status"
   },
   {
@@ -60,6 +51,15 @@
     "title": "Maroela Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-29T16:45:36.917Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Biyamiti Camp - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-30T12:03:51.513Z",
     "source": "Kruger Status"
   }
 ]
