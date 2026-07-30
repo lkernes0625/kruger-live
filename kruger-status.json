@@ -3,18 +3,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Punda Maria Gate - Closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-30T07:46:34.005Z",
+    "title": "Bateleur Camp - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-07-29T15:25:55.974Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-28T14:36:05.302Z",
+    "icon": "&#x1F6AB;",
+    "title": "Punda Maria Gate - Closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-30T07:46:34.005Z",
     "source": "Kruger Status"
   },
   {
@@ -39,45 +39,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Shimuwini Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-28T14:36:54.539Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "H1 1 Road - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-28T19:27:22.174Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Satara Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-28T15:47:02.269Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Maroela Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-29T16:45:36.917Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Bateleur Camp - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-29T15:25:55.974Z",
+    "time": "2026-07-28T19:27:22.174Z",
     "source": "Kruger Status"
   },
   {
@@ -87,6 +51,15 @@
     "title": "Biyamiti Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-07-30T12:03:51.513Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Maroela Camp - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-07-29T16:45:36.917Z",
     "source": "Kruger Status"
   }
 ]
