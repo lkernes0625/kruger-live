@@ -2,6 +2,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "Mopani Camp - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-01T21:09:03.578Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Bateleur Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -14,7 +23,7 @@
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-01T09:42:12.097Z",
+    "time": "2026-08-01T21:34:14.271Z",
     "source": "Kruger Status"
   },
   {
