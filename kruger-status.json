@@ -11,6 +11,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Orpen Gate - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-01T09:42:12.097Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Talamati Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -30,18 +39,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "H1 2 Road - Last known: limited",
+    "title": "Biyamiti Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-31T11:23:39.957Z",
+    "time": "2026-08-01T06:49:51.036Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Biyamiti Camp - Last known: closed",
+    "title": "H1 2 Road - Last known: limited",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-01T06:49:51.036Z",
+    "time": "2026-07-31T11:23:39.957Z",
     "source": "Kruger Status"
   }
 ]
