@@ -20,19 +20,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Balule Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-07-31T12:05:47.230Z",
+    "icon": "&#x1F7E2;",
+    "title": "H1 2 Road - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-02T09:48:06.867Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Bateleur Camp - Open",
+    "title": "Balule Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-02T05:18:09.102Z",
+    "time": "2026-07-31T12:05:47.230Z",
     "source": "Kruger Status"
   },
   {
@@ -56,10 +56,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "H1 2 Road - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-07-31T11:23:39.957Z",
+    "icon": "&#x1F3D5;",
+    "title": "Bateleur Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-02T05:18:09.102Z",
     "source": "Kruger Status"
   }
 ]
