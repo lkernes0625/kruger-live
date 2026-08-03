@@ -20,10 +20,19 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "H1 3 Road - Closed",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-03T11:12:50.892Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Shimuwini Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-02T19:20:53.505Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-03T08:28:33.307Z",
     "source": "Kruger Status"
   },
   {
@@ -31,7 +40,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-03T04:30:51.341Z",
     "source": "Kruger Status"
   },
@@ -48,9 +57,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Olifants Camp - Open",
+    "title": "Lower Sabie Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-02T15:12:46.774Z",
+    "time": "2026-08-03T11:12:08.708Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Olifants Camp - Open",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-03T11:12:00.615Z",
     "source": "Kruger Status"
   },
   {
@@ -58,8 +76,17 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Satara Camp - Open",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-03T11:11:48.787Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Skukuza Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-02T14:40:46.044Z",
+    "time": "2026-08-03T11:12:23.294Z",
     "source": "Kruger Status"
   },
   {
@@ -76,8 +103,8 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Mopani Camp - Last known: closed",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-03T06:09:15.459Z",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-03T10:11:08.453Z",
     "source": "Kruger Status"
   },
   {
