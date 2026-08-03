@@ -13,17 +13,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Malelane Camp - Closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-03T17:06:09.540Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "H1 3 Road - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-03T11:12:50.892Z",
+    "time": "2026-08-03T17:23:35.707Z",
     "source": "Kruger Status"
   },
   {
@@ -56,6 +47,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "H1 1 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-03T18:33:06.710Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Lower Sabie Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -68,7 +68,7 @@
     "icon": "&#x1F3D5;",
     "title": "Olifants Camp - Open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-03T11:12:00.615Z",
+    "time": "2026-08-03T18:42:51.831Z",
     "source": "Kruger Status"
   },
   {
@@ -101,10 +101,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Berg En Dal Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-03T14:48:41.051Z",
+    "icon": "&#x1F3D5;",
+    "title": "Berg En Dal Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-03T17:22:42.478Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Crocodile Bridge Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-03T17:23:29.625Z",
     "source": "Kruger Status"
   },
   {
@@ -120,9 +129,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
+    "title": "H1 3 Road - Last known: closed",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-03T18:00:25.602Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
     "title": "Biyamiti Camp - Last known: limited",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-03T13:06:31.504Z",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-03T17:23:24.831Z",
     "source": "Kruger Status"
   }
 ]
