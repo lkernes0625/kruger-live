@@ -13,7 +13,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Shimuwini Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-03T08:28:33.307Z",
     "source": "Kruger Status"
   },
@@ -48,15 +48,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Berg En Dal Camp - Open",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-04T10:32:47.162Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Crocodile Bridge Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-03T17:23:29.625Z",
@@ -76,7 +67,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Mopani Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-03T20:50:46.949Z",
     "source": "Kruger Status"
   },
@@ -132,6 +123,15 @@
     "title": "Biyamiti Camp - Open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-08-03T17:23:24.831Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Berg En Dal Camp - Open",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-04T10:32:47.162Z",
     "source": "Kruger Status"
   },
   {
