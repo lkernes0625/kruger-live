@@ -119,15 +119,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Bateleur Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-02T05:18:09.102Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x26AA;",
     "title": "Biyamiti Camp - Last known: limited",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
