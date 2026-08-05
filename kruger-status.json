@@ -5,7 +5,7 @@
     "icon": "&#x1F7E1;",
     "title": "Biyamiti Camp - Limited access",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-05T08:26:22.545Z",
+    "time": "2026-08-05T19:58:10.316Z",
     "source": "Kruger Status"
   },
   {
@@ -75,18 +75,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "S100 Road - Last known: open",
+    "title": "H1 2 Road - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-05T18:37:45.911Z",
+    "time": "2026-08-05T18:37:03.438Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "H1 2 Road - Last known: closed",
+    "title": "S100 Road - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-05T18:37:03.438Z",
+    "time": "2026-08-05T18:37:45.911Z",
     "source": "Kruger Status"
   }
 ]
