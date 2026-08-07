@@ -16,5 +16,14 @@
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-08-06T10:35:50.737Z",
     "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Punda Maria Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-07T09:05:42.489Z",
+    "source": "Kruger Status"
   }
 ]
