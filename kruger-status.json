@@ -56,6 +56,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Shimuwini Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-09T23:56:07.583Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F697;",
     "title": "Phabeni Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
