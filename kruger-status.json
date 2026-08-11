@@ -2,10 +2,28 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Orpen Gate - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-11T20:14:03.658Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F7E2;",
     "title": "S114 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-09T21:02:10.500Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Lower Sabie Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-11T20:12:46.101Z",
     "source": "Kruger Status"
   },
   {
