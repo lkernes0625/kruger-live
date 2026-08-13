@@ -13,7 +13,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Lower Sabie Camp - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-12T07:32:36.587Z",
     "source": "Kruger Status"
   },
@@ -30,18 +30,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Satara Camp - Last known: open",
+    "title": "S100 Road - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-13T06:30:01.816Z",
+    "time": "2026-08-13T19:46:55.278Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "S100 Road - Last known: closed",
+    "title": "Satara Camp - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-13T19:46:55.278Z",
+    "time": "2026-08-13T06:30:01.816Z",
     "source": "Kruger Status"
   }
 ]
