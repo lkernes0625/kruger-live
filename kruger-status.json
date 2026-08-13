@@ -2,10 +2,19 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "S100 Road - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-13T08:10:10.547Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-12T07:25:56.104Z",
+    "time": "2026-08-13T06:38:30.773Z",
     "source": "Kruger Status"
   },
   {
@@ -20,19 +29,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Satara Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-12T08:50:58.852Z",
+    "icon": "&#x26AA;",
+    "title": "Satara Camp - Last known: open",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-13T06:30:01.816Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Shimuwini Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-11T12:19:13.791Z",
+    "icon": "&#x26AA;",
+    "title": "Shimuwini Camp - Last known: open",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-13T07:22:37.682Z",
     "source": "Kruger Status"
   }
 ]
