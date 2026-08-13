@@ -11,24 +11,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "S100 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-13T08:10:10.547Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-13T06:38:30.773Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Lower Sabie Camp - Open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
@@ -51,6 +33,15 @@
     "title": "Satara Camp - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-08-13T06:30:01.816Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "S100 Road - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-13T19:46:55.278Z",
     "source": "Kruger Status"
   }
 ]
