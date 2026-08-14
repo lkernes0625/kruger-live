@@ -38,6 +38,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Phabeni Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-14T10:34:07.854Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x26AA;",
     "title": "S100 Road - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
