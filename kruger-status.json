@@ -11,6 +11,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "S100 Road - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-13T19:46:55.278Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Biyamiti Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -24,15 +33,6 @@
     "title": "Phabeni Gate - Open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-08-14T15:02:56.046Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "S100 Road - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-13T19:46:55.278Z",
     "source": "Kruger Status"
   }
 ]
