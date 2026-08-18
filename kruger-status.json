@@ -34,5 +34,14 @@
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-17T06:09:10.292Z",
     "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Olifants Camp - Last known: open",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-18T09:18:56.121Z",
+    "source": "Kruger Status"
   }
 ]
