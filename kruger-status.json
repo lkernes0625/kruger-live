@@ -47,6 +47,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Shingwedzi Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-19T11:08:35.763Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x26AA;",
     "title": "Letaba Camp - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
