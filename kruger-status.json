@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Balule Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-19T13:25:55.300Z",
+    "time": "2026-08-19T16:53:56.721Z",
     "source": "Kruger Status"
   },
   {
@@ -48,18 +48,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Letaba Camp - Last known: open",
+    "title": "H1 1 Road - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-19T16:26:27.350Z",
+    "time": "2026-08-19T15:40:06.065Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "H1 1 Road - Last known: closed",
+    "title": "Letaba Camp - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-19T15:40:06.065Z",
+    "time": "2026-08-19T16:26:27.350Z",
     "source": "Kruger Status"
   }
 ]
