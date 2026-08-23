@@ -4,8 +4,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Olifants Camp - Closed",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-22T19:19:23.188Z",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-23T09:33:44.431Z",
     "source": "Kruger Status"
   },
   {
@@ -15,6 +15,15 @@
     "title": "S100 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-21T17:04:39.576Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Mopani Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-22T00:31:38.221Z",
     "source": "Kruger Status"
   },
   {
@@ -51,15 +60,6 @@
     "title": "Phabeni Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-21T16:18:40.155Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Mopani Camp - Last known: open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-22T00:31:38.221Z",
     "source": "Kruger Status"
   }
 ]
