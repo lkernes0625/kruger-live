@@ -4,8 +4,17 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-27T06:31:47.120Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-28T06:30:07.370Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Balule Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-28T13:01:25.619Z",
     "source": "Kruger Status"
   },
   {
@@ -13,7 +22,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "S100 Road - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-27T17:53:26.021Z",
     "source": "Kruger Status"
   },
