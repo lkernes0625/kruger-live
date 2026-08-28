@@ -3,9 +3,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-25T19:55:49.216Z",
+    "title": "Letaba Camp - Limited access",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-27T06:31:47.120Z",
     "source": "Kruger Status"
   },
   {
@@ -13,8 +13,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "S100 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-27T06:30:13.353Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-27T17:53:26.021Z",
     "source": "Kruger Status"
   },
   {
@@ -78,15 +78,6 @@
     "title": "Tamboti Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-27T13:52:19.095Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Letaba Camp - Last known: open",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-27T06:31:47.120Z",
     "source": "Kruger Status"
   }
 ]
