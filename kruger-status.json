@@ -3,18 +3,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
+    "title": "Balule Camp - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-29T05:31:49.663Z",
+    "time": "2026-08-29T07:03:45.664Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Balule Camp - Limited access",
+    "title": "H10 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-28T13:01:25.619Z",
+    "time": "2026-08-29T07:01:00.000Z",
     "source": "Kruger Status"
   },
   {
@@ -48,54 +48,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Lower Sabie Camp - Open",
+    "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-27T06:31:51.383Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Mopani Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-27T13:50:34.928Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Olifants Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-27T06:31:16.640Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Satara Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-27T06:31:21.902Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Shingwedzi Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-27T06:31:26.554Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Skukuza Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-27T06:31:29.586Z",
+    "time": "2026-08-29T12:07:34.694Z",
     "source": "Kruger Status"
   },
   {
@@ -105,6 +60,15 @@
     "title": "Tamboti Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-27T13:52:19.095Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Talamati Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-29T11:39:21.287Z",
     "source": "Kruger Status"
   }
 ]
