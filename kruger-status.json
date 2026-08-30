@@ -4,8 +4,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Letaba Camp - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-30T10:48:09.809Z",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-30T18:53:51.530Z",
     "source": "Kruger Status"
   },
   {
@@ -13,17 +13,17 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-30T13:53:34.218Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-30T18:20:53.758Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "S65 Road - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-30T12:41:11.617Z",
+    "title": "Balule Camp - Limited access",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-30T17:23:27.554Z",
     "source": "Kruger Status"
   },
   {
@@ -47,10 +47,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Pretoriuskop Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-30T10:22:19.339Z",
+    "icon": "&#x1F7E1;",
+    "title": "S65 Road - Limited access",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-30T12:41:11.617Z",
     "source": "Kruger Status"
   },
   {
@@ -74,10 +74,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Balule Camp - Last known: open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-30T11:37:30.325Z",
+    "icon": "&#x1F3D5;",
+    "title": "Pretoriuskop Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-30T10:22:19.339Z",
     "source": "Kruger Status"
   }
 ]
