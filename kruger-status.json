@@ -21,15 +21,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Balule Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-08-30T17:23:27.554Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "Bateleur Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-30T07:43:30.920Z",
@@ -66,6 +57,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Pretoriuskop Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-08-30T10:22:19.339Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Talamati Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-29T11:39:21.287Z",
@@ -74,10 +74,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Pretoriuskop Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-30T10:22:19.339Z",
+    "icon": "&#x26AA;",
+    "title": "Balule Camp - Last known: open",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-08-30T19:11:41.162Z",
     "source": "Kruger Status"
   }
 ]
