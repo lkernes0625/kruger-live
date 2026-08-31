@@ -47,19 +47,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Punda Maria Camp - Open",
+    "icon": "&#x1F7E2;",
+    "title": "H1 1 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-31T07:42:00.606Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Berg En Dal Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-29T12:07:34.694Z",
+    "time": "2026-08-31T11:29:01.176Z",
     "source": "Kruger Status"
   },
   {
@@ -75,9 +66,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Talamati Camp - Open",
+    "title": "Punda Maria Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-29T11:39:21.287Z",
+    "time": "2026-08-31T07:42:00.606Z",
     "source": "Kruger Status"
   },
   {
