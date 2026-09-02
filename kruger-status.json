@@ -3,6 +3,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Phalaborwa Gate - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-01T11:20:44.417Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-02T13:39:04.555Z",
@@ -15,15 +24,6 @@
     "title": "Balule Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-02T13:28:06.403Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Phalaborwa Gate - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-01T11:20:44.417Z",
     "source": "Kruger Status"
   },
   {
