@@ -2,15 +2,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "Crocodile Bridge Gate - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-01T16:46:31.117Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Balule Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -47,15 +38,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H1 1 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-31T11:29:01.176Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -69,6 +51,15 @@
     "title": "Maroela Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-01T15:07:50.856Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Crocodile Bridge Gate - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-02T12:48:54.712Z",
     "source": "Kruger Status"
   }
 ]
