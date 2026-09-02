@@ -22,7 +22,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Bateleur Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-08-31T17:20:27.088Z",
     "source": "Kruger Status"
   },
@@ -40,8 +40,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "H10 Road - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-01T18:32:03.570Z",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-02T03:59:58.809Z",
     "source": "Kruger Status"
   },
   {
@@ -60,15 +60,6 @@
     "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-01T11:19:13.062Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Punda Maria Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-08-31T07:42:00.606Z",
     "source": "Kruger Status"
   },
   {
