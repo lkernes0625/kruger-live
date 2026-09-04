@@ -12,9 +12,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
+    "title": "Crocodile Bridge Camp - Limited access",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-04T16:00:06.814Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Lower Sabie Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-04T12:33:01.503Z",
+    "time": "2026-09-04T16:00:29.492Z",
     "source": "Kruger Status"
   },
   {
@@ -30,18 +39,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "S100 Road - Limited access",
+    "title": "Phalaborwa Gate - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-04T10:03:27.788Z",
+    "time": "2026-09-04T15:59:51.308Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "H1 6 Road - Open",
+    "icon": "&#x1F7E1;",
+    "title": "S100 Road - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-02T13:40:38.787Z",
+    "time": "2026-09-04T10:03:27.788Z",
     "source": "Kruger Status"
   },
   {
@@ -56,10 +65,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Crocodile Bridge Gate - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-02T14:39:07.633Z",
+    "icon": "&#x1F3D5;",
+    "title": "Letaba Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-04T14:24:17.533Z",
     "source": "Kruger Status"
   }
 ]
