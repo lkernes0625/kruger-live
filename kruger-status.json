@@ -2,10 +2,19 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "Balule Camp - Closed",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-04T09:11:59.893Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-02T13:39:04.555Z",
+    "time": "2026-09-04T12:33:01.503Z",
     "source": "Kruger Status"
   },
   {
@@ -15,6 +24,15 @@
     "title": "Bateleur Camp - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-09-04T05:12:38.426Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "S100 Road - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-04T10:03:27.788Z",
     "source": "Kruger Status"
   },
   {
@@ -38,19 +56,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F697;",
-    "title": "Crocodile Bridge Gate - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-02T14:39:07.633Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Balule Camp - Last known: limited",
+    "title": "Crocodile Bridge Gate - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-03T07:54:51.190Z",
+    "time": "2026-09-02T14:39:07.633Z",
     "source": "Kruger Status"
   }
 ]
