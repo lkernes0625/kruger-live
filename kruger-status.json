@@ -22,7 +22,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Bateleur Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-04T05:12:38.426Z",
     "source": "Kruger Status"
   },
@@ -31,8 +31,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Phalaborwa Gate - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-04T15:59:51.308Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-05T08:39:28.823Z",
     "source": "Kruger Status"
   },
   {
@@ -47,19 +47,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "S114 Road - Open",
+    "icon": "&#x1F3D5;",
+    "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-03T06:18:10.295Z",
+    "time": "2026-09-05T05:14:19.656Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Berg En Dal Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-05T05:14:19.656Z",
+    "title": "Balule Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-05T08:05:32.293Z",
     "source": "Kruger Status"
   },
   {
@@ -78,15 +78,6 @@
     "title": "Letaba Camp - Last known: open",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
     "time": "2026-09-05T05:09:55.401Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Balule Camp - Last known: closed",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-05T05:15:01.539Z",
     "source": "Kruger Status"
   }
 ]
