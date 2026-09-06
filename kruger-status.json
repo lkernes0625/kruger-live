@@ -4,8 +4,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Crocodile Bridge Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-05T13:52:32.150Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-06T09:39:56.099Z",
     "source": "Kruger Status"
   },
   {
@@ -14,7 +14,7 @@
     "icon": "&#x1F7E1;",
     "title": "Lower Sabie Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-04T16:00:29.492Z",
+    "time": "2026-09-06T08:39:43.694Z",
     "source": "Kruger Status"
   },
   {
@@ -30,9 +30,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Biyamiti Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-06T08:39:52.110Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Phalaborwa Gate - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-05T14:01:39.716Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-06T09:31:05.893Z",
     "source": "Kruger Status"
   },
   {
@@ -76,7 +85,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Balule Camp - Open",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-09-05T19:06:51.030Z",
     "source": "Kruger Status"
   },
