@@ -5,25 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "S65 Road - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-08T04:26:39.914Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Crocodile Bridge Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-08T05:48:34.255Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Biyamiti Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-06T18:30:29.716Z",
+    "time": "2026-09-08T09:31:25.089Z",
     "source": "Kruger Status"
   },
   {
@@ -32,7 +14,7 @@
     "icon": "&#x1F7E1;",
     "title": "Phalaborwa Gate - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-07T19:01:11.226Z",
+    "time": "2026-09-08T08:04:38.076Z",
     "source": "Kruger Status"
   },
   {
@@ -51,6 +33,15 @@
     "title": "Bateleur Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-07T05:56:47.588Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Crocodile Bridge Camp - Last known: limited",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-08T05:48:34.255Z",
     "source": "Kruger Status"
   }
 ]
