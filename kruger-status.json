@@ -43,5 +43,14 @@
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-09-07T20:46:56.972Z",
     "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Lower Sabie Camp - Last known: limited",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-09T12:40:43.767Z",
+    "source": "Kruger Status"
   }
 ]
