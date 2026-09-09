@@ -14,16 +14,7 @@
     "icon": "&#x1F7E1;",
     "title": "Phalaborwa Gate - Limited access",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-08T15:07:20.415Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "S1 Road - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-09T04:34:32.972Z",
+    "time": "2026-09-09T15:48:34.904Z",
     "source": "Kruger Status"
   },
   {
@@ -40,7 +31,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Balule Camp - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-07T20:46:56.972Z",
     "source": "Kruger Status"
   },
@@ -51,6 +42,15 @@
     "title": "Lower Sabie Camp - Last known: limited",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-09-09T12:40:43.767Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "S1 Road - Last known: closed",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-09T16:19:26.917Z",
     "source": "Kruger Status"
   }
 ]
