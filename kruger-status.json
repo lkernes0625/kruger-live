@@ -2,19 +2,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "S65 Road - Closed",
+    "icon": "&#x1F697;",
+    "title": "Phalaborwa Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-08T09:31:25.089Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Crocodile Bridge Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-08T05:48:34.255Z",
+    "time": "2026-09-09T15:48:34.904Z",
     "source": "Kruger Status"
   },
   {
@@ -23,16 +14,7 @@
     "icon": "&#x26AA;",
     "title": "Lower Sabie Camp - Last known: limited",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-09T12:40:43.767Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Phalaborwa Gate - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-09T15:48:34.904Z",
+    "time": "2026-09-10T05:18:18.114Z",
     "source": "Kruger Status"
   },
   {
@@ -41,7 +23,7 @@
     "icon": "&#x26AA;",
     "title": "S1 Road - Last known: closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-09T16:19:26.917Z",
+    "time": "2026-09-10T07:00:58.750Z",
     "source": "Kruger Status"
   }
 ]
