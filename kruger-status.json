@@ -3,15 +3,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Balule Camp - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-10T11:54:01.908Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
     "title": "Biyamiti Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-10T11:54:13.288Z",
@@ -30,8 +21,17 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
+    "title": "Balule Camp - Last known: closed",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-11T05:02:55.898Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
     "title": "S1 Road - Last known: closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-09-10T07:00:58.750Z",
     "source": "Kruger Status"
   }
