@@ -11,10 +11,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "S1 Road - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-11T09:27:35.239Z",
+    "icon": "&#x1F7E2;",
+    "title": "S65 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-11T13:26:20.069Z",
     "source": "Kruger Status"
   },
   {
@@ -22,7 +22,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Lower Sabie Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-10T19:46:42.694Z",
     "source": "Kruger Status"
   },
@@ -31,8 +31,17 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Balule Camp - Last known: closed",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-11T05:02:55.898Z",
+    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-11T12:30:39.061Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "S1 Road - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-11T09:27:35.239Z",
     "source": "Kruger Status"
   }
 ]
