@@ -11,10 +11,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "S65 Road - Open",
+    "icon": "&#x1F6AB;",
+    "title": "S1 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-11T13:26:20.069Z",
+    "time": "2026-09-11T09:27:35.239Z",
     "source": "Kruger Status"
   },
   {
@@ -39,9 +39,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "S1 Road - Last known: closed",
+    "title": "S65 Road - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-11T09:27:35.239Z",
+    "time": "2026-09-11T18:08:48.468Z",
     "source": "Kruger Status"
   }
 ]
