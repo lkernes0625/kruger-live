@@ -3,18 +3,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Biyamiti Camp - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-12T05:25:58.521Z",
+    "title": "S1 Road - Closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-12T13:18:18.880Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "S1 Road - Closed",
+    "icon": "&#x1F7E1;",
+    "title": "Crocodile Bridge Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-11T09:27:35.239Z",
+    "time": "2026-09-12T10:21:57.400Z",
     "source": "Kruger Status"
   },
   {
@@ -29,10 +29,28 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Balule Camp - Last known: closed",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "icon": "&#x1F3D5;",
+    "title": "Skukuza Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-12T09:44:53.032Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Balule Camp - Open",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
     "time": "2026-09-12T06:24:29.707Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Biyamiti Camp - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-12T05:25:58.521Z",
     "source": "Kruger Status"
   },
   {
