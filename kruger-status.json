@@ -3,9 +3,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Orpen Camp - Closed",
+    "title": "S65 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-12T18:36:18.062Z",
+    "time": "2026-09-11T18:08:48.468Z",
     "source": "Kruger Status"
   },
   {
@@ -15,15 +15,6 @@
     "title": "S1 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-13T11:06:16.401Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "S65 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-11T18:08:48.468Z",
     "source": "Kruger Status"
   },
   {
@@ -40,8 +31,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-13T11:26:16.045Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-13T16:18:07.049Z",
     "source": "Kruger Status"
   },
   {
@@ -78,6 +69,15 @@
     "title": "Pafuri Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-13T11:25:37.659Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Orpen Camp - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-13T16:08:40.914Z",
     "source": "Kruger Status"
   },
   {
