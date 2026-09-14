@@ -4,17 +4,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "S1 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-13T11:06:16.401Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Crocodile Bridge Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-12T10:21:57.400Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-14T08:15:21.244Z",
     "source": "Kruger Status"
   },
   {
@@ -22,8 +13,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-14T04:14:05.326Z",
+    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-14T11:23:48.708Z",
     "source": "Kruger Status"
   },
   {
@@ -41,7 +32,7 @@
     "icon": "&#x1F3D5;",
     "title": "Olifants Camp - Open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-13T07:42:21.610Z",
+    "time": "2026-09-14T08:51:07.688Z",
     "source": "Kruger Status"
   },
   {
@@ -57,18 +48,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Skukuza Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-12T09:44:53.032Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Bateleur Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-14T04:06:09.009Z",
+    "time": "2026-09-14T08:51:16.965Z",
     "source": "Kruger Status"
   },
   {
