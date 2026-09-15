@@ -22,7 +22,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
     "time": "2026-09-14T16:51:01.403Z",
     "source": "Kruger Status"
   },
@@ -39,18 +39,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Olifants Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-14T08:51:07.688Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Orpen Camp - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-13T18:03:22.876Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-15T12:11:20.094Z",
     "source": "Kruger Status"
   },
   {
@@ -69,15 +60,6 @@
     "title": "Bateleur Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-14T08:51:16.965Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F697;",
-    "title": "Pafuri Gate - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-13T11:25:37.659Z",
     "source": "Kruger Status"
   }
 ]
