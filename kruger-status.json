@@ -12,6 +12,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Letaba Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-15T06:05:52.430Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
     "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
     "time": "2026-09-14T16:51:01.403Z",
