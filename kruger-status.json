@@ -3,6 +3,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
+    "title": "Crocodile Bridge Camp - Closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-16T09:54:37.223Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
     "title": "Malelane Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-15T16:03:24.825Z",
@@ -22,17 +31,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Phalaborwa Gate - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-15T17:23:55.331Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "Crocodile Bridge Camp - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-16T09:54:37.223Z",
+    "time": "2026-09-16T12:49:22.068Z",
     "source": "Kruger Status"
   },
   {
@@ -74,19 +74,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Balule Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-14T14:10:25.586Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x26AA;",
     "title": "Orpen Gate - Last known: limited",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-16T06:39:23.226Z",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-16T12:32:15.563Z",
     "source": "Kruger Status"
   }
 ]
