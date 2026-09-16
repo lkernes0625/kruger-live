@@ -3,18 +3,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Crocodile Bridge Camp - Closed",
+    "title": "Malelane Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-15T17:23:02.798Z",
+    "time": "2026-09-15T16:03:24.825Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Malelane Camp - Closed",
+    "title": "Crocodile Bridge Gate - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-15T16:03:24.825Z",
+    "time": "2026-09-16T06:13:06.208Z",
     "source": "Kruger Status"
   },
   {
@@ -30,9 +30,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "S1 Road - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-14T08:15:21.244Z",
+    "title": "Crocodile Bridge Camp - Closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-16T09:54:37.223Z",
     "source": "Kruger Status"
   },
   {
@@ -56,10 +56,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-16T05:34:56.223Z",
+    "icon": "&#x1F7E2;",
+    "title": "S106 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-16T06:39:45.275Z",
     "source": "Kruger Status"
   },
   {
@@ -78,6 +78,15 @@
     "title": "Balule Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-14T14:10:25.586Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Orpen Gate - Last known: limited",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-16T06:39:23.226Z",
     "source": "Kruger Status"
   }
 ]
