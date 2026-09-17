@@ -31,7 +31,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
     "time": "2026-09-17T16:49:42.150Z",
     "source": "Kruger Status"
   },
@@ -84,9 +84,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Crocodile Bridge Gate - Last known: closed",
+    "title": "Crocodile Bridge Gate - Last known: open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-17T15:32:36.946Z",
+    "time": "2026-09-17T18:38:52.615Z",
     "source": "Kruger Status"
   }
 ]
