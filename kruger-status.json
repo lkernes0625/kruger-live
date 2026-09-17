@@ -21,15 +21,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Crocodile Bridge Gate - Closed",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-16T06:13:06.208Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
     "title": "Phalaborwa Gate - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-09-16T18:18:51.407Z",
@@ -39,9 +30,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-15T15:41:15.160Z",
+    "title": "Orpen Gate - Limited access",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-17T06:51:01.687Z",
     "source": "Kruger Status"
   },
   {
@@ -84,9 +75,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Orpen Gate - Last known: limited",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-16T12:32:15.563Z",
+    "title": "Crocodile Bridge Gate - Last known: closed",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-17T02:24:29.693Z",
     "source": "Kruger Status"
   }
 ]
