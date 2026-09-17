@@ -4,7 +4,7 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Crocodile Bridge Camp - Closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-16T19:06:41.576Z",
     "source": "Kruger Status"
   },
@@ -12,9 +12,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
-    "title": "Malelane Camp - Closed",
+    "title": "Bateleur Camp - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-15T16:03:24.825Z",
+    "time": "2026-09-16T16:26:30.018Z",
     "source": "Kruger Status"
   },
   {
@@ -22,7 +22,7 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Phalaborwa Gate - Closed",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-09-17T07:37:09.495Z",
     "source": "Kruger Status"
   },
@@ -31,8 +31,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-17T10:54:46.648Z",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-17T16:49:42.150Z",
     "source": "Kruger Status"
   },
   {
@@ -48,6 +48,33 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Pretoriuskop Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-17T14:13:01.013Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Punda Maria Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-17T14:13:01.045Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Shingwedzi Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-17T17:46:45.490Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Sirheni Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-16T19:41:39.665Z",
@@ -57,18 +84,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Bateleur Camp - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-16T16:26:30.018Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
     "title": "Crocodile Bridge Gate - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-17T08:50:19.071Z",
+    "time": "2026-09-17T15:32:36.946Z",
     "source": "Kruger Status"
   }
 ]
