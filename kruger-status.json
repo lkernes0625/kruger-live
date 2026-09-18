@@ -22,8 +22,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Phalaborwa Gate - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-17T07:37:09.495Z",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-18T08:52:06.155Z",
     "source": "Kruger Status"
   },
   {
@@ -32,16 +32,16 @@
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
     "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-18T01:04:30.355Z",
+    "time": "2026-09-18T07:49:28.883Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E2;",
-    "title": "S106 Road - Open",
+    "title": "S1 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-16T06:39:45.275Z",
+    "time": "2026-09-18T06:46:45.457Z",
     "source": "Kruger Status"
   },
   {
@@ -83,10 +83,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Crocodile Bridge Gate - Last known: open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "icon": "&#x1F697;",
+    "title": "Crocodile Bridge Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-17T18:38:52.615Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Phabeni Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-18T06:48:07.592Z",
     "source": "Kruger Status"
   }
 ]
