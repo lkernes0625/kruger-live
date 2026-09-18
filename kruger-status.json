@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Phalaborwa Gate - Closed",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-18T15:11:38.400Z",
+    "time": "2026-09-18T18:56:04.380Z",
     "source": "Kruger Status"
   },
   {
@@ -24,6 +24,15 @@
     "title": "S1 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-18T06:46:45.457Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "S114 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-18T19:31:31.400Z",
     "source": "Kruger Status"
   },
   {
@@ -58,17 +67,8 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Shingwedzi Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-17T17:46:45.490Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Sirheni Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-16T19:41:39.665Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-18T19:18:45.239Z",
     "source": "Kruger Status"
   },
   {
