@@ -13,17 +13,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-19T16:40:29.556Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-19T16:43:15.231Z",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-19T17:37:07.351Z",
     "source": "Kruger Status"
   },
   {
@@ -32,7 +23,16 @@
     "icon": "&#x1F7E1;",
     "title": "Sirheni Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-19T02:27:52.025Z",
+    "time": "2026-09-19T18:59:20.104Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Orpen Gate - Limited access",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-19T18:52:45.109Z",
     "source": "Kruger Status"
   },
   {
@@ -67,7 +67,7 @@
     "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Shingwedzi Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-09-19T02:27:59.269Z",
     "source": "Kruger Status"
   },
