@@ -3,6 +3,24 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Sirheni Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-19T18:59:20.104Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Orpen Gate - Limited access",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-20T12:25:34.724Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
     "time": "2026-09-20T12:21:37.015Z",
@@ -11,10 +29,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Sirheni Camp - Limited access",
+    "icon": "&#x1F7E2;",
+    "title": "S65 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-19T18:59:20.104Z",
+    "time": "2026-09-20T12:58:32.908Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "S114 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-18T19:31:31.400Z",
     "source": "Kruger Status"
   },
   {
@@ -65,19 +92,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "S65 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-20T12:58:32.908Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "S114 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-18T19:31:31.400Z",
+    "icon": "&#x1F3D5;",
+    "title": "Shingwedzi Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-20T14:56:09.270Z",
     "source": "Kruger Status"
   },
   {
@@ -110,36 +128,9 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Satara Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-20T12:19:01.104Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Shingwedzi Camp - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-20T12:23:24.815Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Orpen Gate - Last known: limited",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-20T12:25:34.724Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Phalaborwa Gate - Last known: closed",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
+    "icon": "&#x1F697;",
+    "title": "Phalaborwa Gate - Open",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
     "time": "2026-09-20T12:33:38.697Z",
     "source": "Kruger Status"
   }
