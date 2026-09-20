@@ -4,8 +4,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-19T17:37:07.351Z",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-20T09:56:53.950Z",
     "source": "Kruger Status"
   },
   {
@@ -22,17 +22,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-20T04:36:03.756Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E2;",
-    "title": "S1 Road - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-18T06:46:45.457Z",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-20T08:58:36.098Z",
     "source": "Kruger Status"
   },
   {
@@ -65,19 +56,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F697;",
-    "title": "Phabeni Gate - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-18T06:48:07.592Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x26AA;",
     "title": "Phalaborwa Gate - Last known: closed",
     "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-20T04:22:44.268Z",
+    "time": "2026-09-20T09:44:18.746Z",
     "source": "Kruger Status"
   }
 ]
