@@ -5,7 +5,7 @@
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
     "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-21T06:38:52.070Z",
+    "time": "2026-09-21T12:58:50.119Z",
     "source": "Kruger Status"
   },
   {
@@ -13,8 +13,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-21T10:05:17.553Z",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-21T16:05:10.232Z",
     "source": "Kruger Status"
   },
   {
@@ -60,6 +60,24 @@
     "title": "S65 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-20T12:58:32.908Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Malelane Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-21T10:29:13.168Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Bateleur Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-21T10:28:59.442Z",
     "source": "Kruger Status"
   },
   {
@@ -112,7 +130,7 @@
     "tag": "road",
     "icon": "&#x1F697;",
     "title": "Phalaborwa Gate - Open",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-09-20T19:49:45.853Z",
     "source": "Kruger Status"
   },
