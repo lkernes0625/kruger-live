@@ -4,7 +4,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-09-22T08:36:03.571Z",
     "source": "Kruger Status"
   },
@@ -13,8 +13,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-22T06:59:20.299Z",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-23T05:24:19.508Z",
     "source": "Kruger Status"
   },
   {
@@ -105,6 +105,15 @@
     "title": "Phalaborwa Gate - Open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-09-22T19:04:45.547Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Punda Maria Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-23T03:37:35.931Z",
     "source": "Kruger Status"
   },
   {
