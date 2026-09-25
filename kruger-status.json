@@ -13,8 +13,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-24T19:21:59.377Z",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-25T05:58:24.576Z",
     "source": "Kruger Status"
   },
   {
@@ -47,6 +47,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "S100 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-25T04:24:24.378Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Shingwedzi Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
@@ -60,15 +69,6 @@
     "title": "Pafuri Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-24T09:16:09.299Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F697;",
-    "title": "Punda Maria Gate - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-23T03:37:35.931Z",
     "source": "Kruger Status"
   }
 ]
