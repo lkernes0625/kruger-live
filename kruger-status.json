@@ -12,6 +12,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Lower Sabie Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-26T15:53:06.768Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Malelane Gate - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-26T14:02:57.130Z",
@@ -20,19 +29,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Orpen Gate - Limited access",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-25T20:09:28.661Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Lower Sabie Camp - Limited access",
+    "icon": "&#x1F7E2;",
+    "title": "H9 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-26T15:53:06.768Z",
+    "time": "2026-09-26T18:06:16.779Z",
     "source": "Kruger Status"
   },
   {
@@ -51,6 +51,15 @@
     "title": "Crocodile Bridge Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-26T07:10:42.533Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Orpen Gate - Last known: limited",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-09-25T20:09:28.661Z",
     "source": "Kruger Status"
   }
 ]
