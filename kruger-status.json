@@ -22,8 +22,8 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-27T18:26:53.117Z",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-09-28T12:18:52.047Z",
     "source": "Kruger Status"
   },
   {
@@ -32,7 +32,7 @@
     "icon": "&#x1F7E1;",
     "title": "Lower Sabie Camp - Limited access",
     "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-27T19:18:00.009Z",
+    "time": "2026-09-28T12:18:53.658Z",
     "source": "Kruger Status"
   },
   {
@@ -48,15 +48,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Crocodile Bridge Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-26T07:10:42.533Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Balule Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-09-27T18:27:22.258Z",
@@ -66,18 +57,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F697;",
-    "title": "Orpen Gate - Open",
+    "title": "Malelane Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-09-27T07:53:44.601Z",
+    "time": "2026-09-27T10:27:29.805Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Malelane Gate - Last known: limited",
+    "icon": "&#x1F697;",
+    "title": "Orpen Gate - Open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-09-27T10:27:29.805Z",
+    "time": "2026-09-28T08:16:22.232Z",
     "source": "Kruger Status"
   }
 ]
