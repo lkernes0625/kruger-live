@@ -12,6 +12,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
+    "title": "Letaba Camp - Limited access",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-01T20:36:59.191Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
     "title": "Shimuwini Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-01T10:40:07.031Z",
@@ -24,15 +33,6 @@
     "title": "Malelane Gate - Limited access",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-10-01T11:23:12.096Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-01T20:36:59.191Z",
     "source": "Kruger Status"
   },
   {
