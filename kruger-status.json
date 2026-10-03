@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Lower Sabie Camp - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-02T19:16:15.071Z",
+    "time": "2026-10-02T22:35:53.758Z",
     "source": "Kruger Status"
   },
   {
@@ -15,15 +15,6 @@
     "title": "S28 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-02T09:54:19.540Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Letaba Camp - Limited access",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-02T05:46:24.262Z",
     "source": "Kruger Status"
   },
   {
@@ -114,6 +105,15 @@
     "title": "Phalaborwa Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-02T13:42:22.206Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Letaba Camp - Last known: limited",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-02T20:43:56.221Z",
     "source": "Kruger Status"
   }
 ]
