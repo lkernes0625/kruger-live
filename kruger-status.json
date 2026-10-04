@@ -2,37 +2,19 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "Lower Sabie Camp - Closed",
-    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-03T21:31:45.666Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Balule Camp - Limited access",
+    "icon": "&#x1F3D5;",
+    "title": "Letaba Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-02T14:51:01.483Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Malelane Gate - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-02T16:27:03.609Z",
+    "time": "2026-10-03T03:29:52.865Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Letaba Camp - Open",
+    "title": "Olifants Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-03T03:29:52.865Z",
+    "time": "2026-10-04T13:47:13.139Z",
     "source": "Kruger Status"
   },
   {
@@ -47,10 +29,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F697;",
-    "title": "Phalaborwa Gate - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-02T13:42:22.206Z",
+    "icon": "&#x26AA;",
+    "title": "Lower Sabie Camp - Last known: closed",
+    "desc": "Community reports - 6 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-04T15:09:55.050Z",
     "source": "Kruger Status"
   }
 ]
