@@ -3,6 +3,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
+    "title": "Berg En Dal Camp - Closed",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-07T20:01:27.327Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
     "title": "H1 3 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-07T13:42:57.005Z",
@@ -15,15 +24,6 @@
     "title": "S100 Road - Closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-10-07T08:46:49.252Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "Berg En Dal Camp - Closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-07T13:19:55.471Z",
     "source": "Kruger Status"
   },
   {
@@ -66,18 +66,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E2;",
-    "title": "H4 1 Road - Open",
+    "title": "S65 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-07T13:41:27.542Z",
+    "time": "2026-10-07T14:01:36.773Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E2;",
-    "title": "S65 Road - Open",
+    "title": "H4 1 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-07T14:01:36.773Z",
+    "time": "2026-10-07T13:41:27.542Z",
     "source": "Kruger Status"
   },
   {
