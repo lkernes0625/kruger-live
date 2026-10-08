@@ -4,8 +4,8 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Berg En Dal Camp - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-07T20:01:27.327Z",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-08T05:03:12.815Z",
     "source": "Kruger Status"
   },
   {
@@ -14,7 +14,7 @@
     "icon": "&#x1F6AB;",
     "title": "H1 3 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-07T13:42:57.005Z",
+    "time": "2026-10-08T04:45:00.591Z",
     "source": "Kruger Status"
   },
   {
@@ -32,7 +32,7 @@
     "icon": "&#x1F7E1;",
     "title": "Balule Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-07T09:16:11.442Z",
+    "time": "2026-10-08T04:33:48.857Z",
     "source": "Kruger Status"
   },
   {
@@ -40,7 +40,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Malelane Gate - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-07T14:18:25.122Z",
     "source": "Kruger Status"
   },
@@ -59,7 +59,16 @@
     "icon": "&#x1F7E2;",
     "title": "H1 2 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-07T14:10:11.780Z",
+    "time": "2026-10-08T04:39:56.072Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "H1 4 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-08T04:40:08.180Z",
     "source": "Kruger Status"
   },
   {
@@ -113,7 +122,7 @@
     "icon": "&#x26AA;",
     "title": "H1 1 Road - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-07T14:00:48.232Z",
+    "time": "2026-10-08T04:39:50.424Z",
     "source": "Kruger Status"
   }
 ]
