@@ -4,7 +4,7 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "S100 Road - Closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-08T12:01:12.886Z",
     "source": "Kruger Status"
   },
@@ -14,7 +14,7 @@
     "icon": "&#x1F7E1;",
     "title": "Balule Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-08T04:33:48.857Z",
+    "time": "2026-10-08T19:05:06.265Z",
     "source": "Kruger Status"
   },
   {
@@ -84,27 +84,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Lower Sabie Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-06T21:36:33.502Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Olifants Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-07T13:14:58.002Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Bateleur Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-07T13:21:00.668Z",
+    "time": "2026-10-08T19:05:24.414Z",
     "source": "Kruger Status"
   },
   {
@@ -121,8 +103,8 @@
     "tag": "road",
     "icon": "&#x26AA;",
     "title": "Berg En Dal Camp - Last known: closed",
-    "desc": "Community reports - 7 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-08T13:02:33.361Z",
+    "desc": "Community reports - 8 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-08T19:47:18.009Z",
     "source": "Kruger Status"
   }
 ]
