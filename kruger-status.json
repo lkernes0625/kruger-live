@@ -3,9 +3,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Letaba Camp - Open",
+    "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-09T08:08:33.585Z",
+    "time": "2026-10-11T08:27:16.646Z",
     "source": "Kruger Status"
   },
   {
@@ -14,7 +14,16 @@
     "icon": "&#x1F3D5;",
     "title": "Balule Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-09T15:08:38.707Z",
+    "time": "2026-10-11T09:02:42.455Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Bateleur Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-11T10:24:45.029Z",
     "source": "Kruger Status"
   },
   {
@@ -33,15 +42,6 @@
     "title": "Malelane Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-10T10:20:23.313Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Berg En Dal Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-11T08:03:00.719Z",
     "source": "Kruger Status"
   }
 ]
