@@ -12,27 +12,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Satara Camp - Limited access",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-13T08:23:39.804Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Balule Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-13T09:25:53.171Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
     "title": "Shimuwini Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-12T01:55:47.410Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Crocodile Bridge Gate - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-13T11:21:33.859Z",
     "source": "Kruger Status"
   },
   {
@@ -57,9 +48,27 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Bateleur Camp - Open",
+    "title": "Letaba Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-11T10:24:45.029Z",
+    "time": "2026-10-13T15:47:36.850Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Satara Camp - Last known: limited",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-13T11:38:42.545Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x26AA;",
+    "title": "Balule Camp - Last known: limited",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-13T11:38:26.055Z",
     "source": "Kruger Status"
   }
 ]
