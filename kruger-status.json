@@ -5,7 +5,7 @@
     "icon": "&#x1F6AB;",
     "title": "Skukuza Camp - Closed",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-14T13:19:33.942Z",
+    "time": "2026-10-14T20:01:28.477Z",
     "source": "Kruger Status"
   },
   {
@@ -39,15 +39,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Letaba Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-14T18:17:57.256Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Lower Sabie Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-14T03:42:07.775Z",
@@ -57,18 +48,36 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Orpen Camp - Open",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-14T16:05:07.391Z",
+    "title": "Satara Camp - Open",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-14T08:27:01.854Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Satara Camp - Open",
+    "title": "Biyamiti Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-14T19:48:58.666Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Letaba Camp - Open",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-14T08:27:01.854Z",
+    "time": "2026-10-14T18:17:57.256Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Orpen Camp - Open",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-14T16:05:07.391Z",
     "source": "Kruger Status"
   },
   {
