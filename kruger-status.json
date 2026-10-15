@@ -5,16 +5,16 @@
     "icon": "&#x1F6AB;",
     "title": "Skukuza Camp - Closed",
     "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-15T06:52:31.742Z",
+    "time": "2026-10-15T13:39:38.933Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Berg En Dal Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-15T05:14:02.668Z",
+    "title": "Balule Camp - Limited access",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-15T00:04:12.714Z",
     "source": "Kruger Status"
   },
   {
@@ -29,15 +29,6 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Crocodile Bridge Gate - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-14T13:39:14.806Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F7E2;",
     "title": "H1 3 Road - Open",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
@@ -47,10 +38,19 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "H10 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-15T13:40:15.354Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Letaba Camp - Open",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-15T00:53:29.694Z",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-15T12:34:21.416Z",
     "source": "Kruger Status"
   },
   {
@@ -75,9 +75,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Satara Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-14T08:27:01.854Z",
+    "title": "Bateleur Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-15T13:39:24.400Z",
     "source": "Kruger Status"
   },
   {
@@ -93,9 +93,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Balule Camp - Last known: limited",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-15T00:04:12.714Z",
+    "title": "Satara Camp - Last known: limited",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-14T08:27:01.854Z",
     "source": "Kruger Status"
   }
 ]
