@@ -2,28 +2,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F6AB;",
-    "title": "Skukuza Camp - Closed",
-    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-16T10:16:24.774Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Satara Camp - Limited access",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-16T05:17:53.844Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Shimuwini Camp - Limited access",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-14T12:02:59.741Z",
+    "time": "2026-10-16T15:00:43.393Z",
     "source": "Kruger Status"
   },
   {
@@ -39,6 +21,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E2;",
+    "title": "H1 7 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-16T12:50:30.422Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E2;",
     "title": "H10 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-15T13:40:15.354Z",
@@ -47,10 +38,19 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F7E2;",
+    "title": "S1 Road - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-16T14:07:12.143Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F3D5;",
     "title": "Letaba Camp - Open",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-15T12:34:21.416Z",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-16T12:35:22.359Z",
     "source": "Kruger Status"
   },
   {
@@ -60,6 +60,15 @@
     "title": "Orpen Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-14T16:05:07.391Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Balule Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-15T00:04:12.714Z",
     "source": "Kruger Status"
   },
   {
@@ -84,9 +93,9 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Balule Camp - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-15T00:04:12.714Z",
+    "title": "Skukuza Camp - Last known: closed",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-16T13:59:08.324Z",
     "source": "Kruger Status"
   }
 ]
