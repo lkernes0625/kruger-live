@@ -2,6 +2,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F6AB;",
+    "title": "Skukuza Camp - Closed",
+    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-17T22:14:38.768Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Satara Camp - Limited access",
     "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
@@ -51,15 +60,6 @@
     "title": "Orpen Gate - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-17T11:48:20.439Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Skukuza Camp - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-16T13:59:08.324Z",
     "source": "Kruger Status"
   }
 ]
