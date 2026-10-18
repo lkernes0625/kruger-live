@@ -4,8 +4,17 @@
     "tag": "road",
     "icon": "&#x1F6AB;",
     "title": "Skukuza Camp - Closed",
-    "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-17T22:14:38.768Z",
+    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-18T05:22:34.041Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Berg En Dal Camp - Limited access",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-18T08:32:28.952Z",
     "source": "Kruger Status"
   },
   {
@@ -13,7 +22,7 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Satara Camp - Limited access",
-    "desc": "Community reports - 5 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 4 reports. Source: krugerstatus.co.za",
     "time": "2026-10-17T15:01:42.116Z",
     "source": "Kruger Status"
   },
@@ -23,7 +32,7 @@
     "icon": "&#x1F7E1;",
     "title": "Balule Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-17T21:11:12.348Z",
+    "time": "2026-10-18T08:32:09.509Z",
     "source": "Kruger Status"
   },
   {
