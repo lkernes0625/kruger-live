@@ -30,24 +30,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Skukuza Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-21T11:06:02.462Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Bateleur Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-21T12:26:53.415Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Berg En Dal Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-21T12:00:15.196Z",
@@ -93,9 +75,27 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Skukuza Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-21T11:06:02.462Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Malelane Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-21T12:00:24.705Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
+    "title": "Bateleur Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-21T12:26:53.415Z",
     "source": "Kruger Status"
   },
   {
