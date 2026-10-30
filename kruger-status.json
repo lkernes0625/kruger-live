@@ -3,6 +3,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F6AB;",
+    "title": "H1 1 Road - Closed",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-30T05:54:03.575Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F6AB;",
     "title": "S65 Road - Closed",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-28T14:22:08.359Z",
@@ -12,9 +21,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F7E1;",
-    "title": "Shimuwini Camp - Limited access",
+    "title": "Shingwedzi Camp - Limited access",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-29T07:39:16.075Z",
+    "time": "2026-10-30T08:02:04.408Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F7E1;",
+    "title": "Shimuwini Camp - Limited access",
+    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "time": "2026-10-30T07:12:58.106Z",
     "source": "Kruger Status"
   },
   {
@@ -30,9 +48,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Punda Maria Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-10-30T08:01:30.930Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Balule Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-29T16:40:07.631Z",
+    "time": "2026-10-30T07:01:23.677Z",
     "source": "Kruger Status"
   }
 ]
