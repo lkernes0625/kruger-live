@@ -4,17 +4,17 @@
     "tag": "road",
     "icon": "&#x1F7E1;",
     "title": "Shingwedzi Camp - Limited access",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-10-31T21:39:54.966Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F7E1;",
-    "title": "Shimuwini Camp - Limited access",
+    "icon": "&#x1F7E2;",
+    "title": "H1 1 Road - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-30T07:12:58.106Z",
+    "time": "2026-10-31T22:58:58.012Z",
     "source": "Kruger Status"
   },
   {
@@ -29,28 +29,10 @@
   {
     "type": "road",
     "tag": "road",
-    "icon": "&#x1F3D5;",
-    "title": "Punda Maria Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-10-30T08:01:30.930Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
     "icon": "&#x26AA;",
     "title": "Bateleur Camp - Last known: closed",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
     "time": "2026-10-31T14:56:20.025Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "H1 1 Road - Last known: closed",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-10-31T22:58:58.012Z",
     "source": "Kruger Status"
   }
 ]
