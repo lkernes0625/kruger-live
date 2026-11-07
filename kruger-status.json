@@ -21,15 +21,6 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Biyamiti Camp - Open",
-    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-11-07T08:17:14.464Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x1F3D5;",
     "title": "Crocodile Bridge Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-11-07T07:26:52.474Z",
@@ -39,18 +30,18 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
-    "title": "Olifants Camp - Open",
+    "title": "Biyamiti Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
-    "time": "2026-11-05T14:01:29.122Z",
+    "time": "2026-11-07T08:17:14.464Z",
     "source": "Kruger Status"
   },
   {
     "type": "road",
     "tag": "road",
     "icon": "&#x26AA;",
-    "title": "Lower Sabie Camp - Last known: open",
+    "title": "Lower Sabie Camp - Last known: limited",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-11-07T08:48:52.563Z",
+    "time": "2026-11-07T12:23:09.023Z",
     "source": "Kruger Status"
   }
 ]
