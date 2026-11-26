@@ -21,6 +21,15 @@
     "type": "road",
     "tag": "road",
     "icon": "&#x1F3D5;",
+    "title": "Satara Camp - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-11-26T13:17:54.987Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
+    "icon": "&#x1F3D5;",
     "title": "Shingwedzi Camp - Open",
     "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
     "time": "2026-11-25T09:55:54.495Z",
@@ -60,15 +69,6 @@
     "title": "Letaba Camp - Last known: open",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
     "time": "2026-11-25T13:20:22.857Z",
-    "source": "Kruger Status"
-  },
-  {
-    "type": "road",
-    "tag": "road",
-    "icon": "&#x26AA;",
-    "title": "Satara Camp - Last known: limited",
-    "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-11-26T13:17:54.987Z",
     "source": "Kruger Status"
   }
 ]
