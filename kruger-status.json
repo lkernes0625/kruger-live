@@ -47,6 +47,15 @@
   {
     "type": "road",
     "tag": "road",
+    "icon": "&#x1F697;",
+    "title": "Punda Maria Gate - Open",
+    "desc": "Community reports - 1 report. Source: krugerstatus.co.za",
+    "time": "2026-11-26T07:02:33.242Z",
+    "source": "Kruger Status"
+  },
+  {
+    "type": "road",
+    "tag": "road",
     "icon": "&#x26AA;",
     "title": "Letaba Camp - Last known: open",
     "desc": "Community reports - 3 reports. Source: krugerstatus.co.za",
@@ -59,7 +68,7 @@
     "icon": "&#x26AA;",
     "title": "Satara Camp - Last known: limited",
     "desc": "Community reports - 2 reports. Source: krugerstatus.co.za",
-    "time": "2026-11-25T09:55:26.187Z",
+    "time": "2026-11-26T13:17:54.987Z",
     "source": "Kruger Status"
   }
 ]
